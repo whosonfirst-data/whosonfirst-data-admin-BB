@@ -1,0 +1,64 @@
+{
+  "id": 1309729823,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"2018-09-06",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.48982,13.0724,-59.48982,13.0724",
+    "geom:latitude":13.0724,
+    "geom:longitude":-59.48982,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Paragon",
+    "gn:country_code":"BB",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLH",
+    "gn:geonameid":3373637,
+    "gn:latitude":13.0724,
+    "gn:longitude":-59.48982,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Paragon",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":0,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373637
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"2292d860a479115cc3d12ddbdec56ad3",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1309729823,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1309729823,
+    "wof:lastmodified":1537038940,
+    "wof:name":"Paragon",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.48982,
+    13.0724,
+    -59.48982,
+    13.0724
+],
+  "geometry": {"coordinates":[-59.48982,13.0724],"type":"Point"}
+}

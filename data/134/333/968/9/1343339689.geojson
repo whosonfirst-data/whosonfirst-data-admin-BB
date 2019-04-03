@@ -1,0 +1,65 @@
+{
+  "id": 1343339689,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.60391,13.1527,-59.60391,13.1527",
+    "geom:latitude":13.1527,
+    "geom:longitude":-59.60391,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Arthurs Seat",
+    "gn:country_code":"BB",
+    "gn:dem":126,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374096,
+    "gn:latitude":13.1527,
+    "gn:longitude":-59.60391,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Arthurs Seat",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374096
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"ee3c6f20d3df5059952d69f2b8ab2aa0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1343339689,
+            "region_id":85669477
+        }
+    ],
+    "wof:id":1343339689,
+    "wof:lastmodified":1536921274,
+    "wof:name":"Arthurs Seat",
+    "wof:parent_id":85669477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.60391,
+    13.1527,
+    -59.60391,
+    13.1527
+],
+  "geometry": {"coordinates":[-59.60391,13.1527],"type":"Point"}
+}

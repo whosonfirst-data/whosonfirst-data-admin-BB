@@ -1,0 +1,64 @@
+{
+  "id": 1277091859,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.525,13.04792,-59.525,13.04792",
+    "geom:latitude":13.04792,
+    "geom:longitude":-59.525,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Green Garden",
+    "gn:country_code":"BB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373834,
+    "gn:latitude":13.04792,
+    "gn:longitude":-59.525,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Green Garden",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373834
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"9340b5799005cda5b7322708b1e6737b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1277091859,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1277091859,
+    "wof:lastmodified":1536754482,
+    "wof:name":"Green Garden",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.525,
+    13.04792,
+    -59.525,
+    13.04792
+],
+  "geometry": {"coordinates":[-59.525,13.04792],"type":"Point"}
+}

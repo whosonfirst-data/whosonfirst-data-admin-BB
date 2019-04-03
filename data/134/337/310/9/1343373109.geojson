@@ -1,0 +1,65 @@
+{
+  "id": 1343373109,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.477,13.11772,-59.477,13.11772",
+    "geom:latitude":13.11772,
+    "geom:longitude":-59.477,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Six Cross Roads",
+    "gn:country_code":"BB",
+    "gn:dem":34,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373515,
+    "gn:latitude":13.11772,
+    "gn:longitude":-59.477,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Six Cross Roads",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373515
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"3c7719f3e2871260efb2f9533ad5e4a5",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1343373109,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":1343373109,
+    "wof:lastmodified":1536871084,
+    "wof:name":"Six Cross Roads",
+    "wof:parent_id":85669473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.477,
+    13.11772,
+    -59.477,
+    13.11772
+],
+  "geometry": {"coordinates":[-59.477,13.11772],"type":"Point"}
+}

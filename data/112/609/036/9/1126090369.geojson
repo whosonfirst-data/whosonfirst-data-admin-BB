@@ -1,0 +1,98 @@
+{
+  "id": 1126090369,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.61667,13.1,-59.61667,13.1",
+    "geom:latitude":13.1,
+    "geom:longitude":-59.61667,
+    "gn:gn_country":"BB",
+    "gn:gn_fcode":"PPLX",
+    "gn:gn_pop":0,
+    "gn:latitude":13.1,
+    "gn:longitude":-59.61667,
+    "iso:country":"BB",
+    "lbl:latitude":13.1,
+    "lbl:longitude":-59.61667,
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:note":"Quattroshapes Point Gazetteer import 20170519",
+    "name:eng_x_preferred":[
+        "Brighton"
+    ],
+    "name:unk_x_variant":[
+        "Brighton"
+    ],
+    "qs_pg:aaroncc":"BB",
+    "qs_pg:gn_country":"BB",
+    "qs_pg:gn_fcode":"PPLX",
+    "qs_pg:gn_id":3374032,
+    "qs_pg:gn_pop":0,
+    "qs_pg:name":"Brighton",
+    "qs_pg:name_adm0":"Barbados",
+    "qs_pg:name_adm1":"Saint Michael",
+    "qs_pg:photos":2659,
+    "qs_pg:photos_1k":539,
+    "qs_pg:photos_9k":12,
+    "qs_pg:photos_9r":10,
+    "qs_pg:photos_all":2659,
+    "qs_pg:photos_sr":18,
+    "qs_pg:pop_sr":0,
+    "qs_pg:qs_id":1082566,
+    "qs_pg:qs_pg_placetype":"neighbourhood",
+    "qs_pg:qs_pg_placetype_gp":"Suburb",
+    "qs_pg:woe_adm0":23424754,
+    "qs_pg:woe_id":56337,
+    "src:geom":"qs_pg",
+    "src:lbl:centroid":"qs_pg",
+    "woe:adm0_id":23424754,
+    "woe:name_adm0":"Barbados",
+    "woe:name_adm1":"Saint Michael",
+    "woe:placetype":"Suburb",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374032,
+        "gp:id":56337,
+        "qs:id":1082566,
+        "qs_pg:id":1082566
+    },
+    "wof:country":"BB",
+    "wof:created":1497313625,
+    "wof:geomhash":"715a979d094d914db614c7cbd8c84281",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":-1,
+            "neighbourhood_id":1126090369,
+            "region_id":85669465
+        }
+    ],
+    "wof:id":1126090369,
+    "wof:lastmodified":1534379234,
+    "wof:name":"Brighton",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[
+        85793491
+    ],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.61667,
+    13.1,
+    -59.61667,
+    13.1
+],
+  "geometry": {"coordinates":[-59.61667,13.1],"type":"Point"}
+}

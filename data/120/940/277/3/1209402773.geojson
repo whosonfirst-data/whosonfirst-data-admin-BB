@@ -1,0 +1,61 @@
+{
+  "id": 1209402773,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.61611,13.17962,-59.61611,13.17962",
+    "geom:latitude":13.17962,
+    "geom:longitude":-59.61611,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Arch Hall",
+    "gn:country_code":"BB",
+    "gn:dem":118,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374097,
+    "gn:latitude":13.17962,
+    "gn:longitude":-59.61611,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Arch Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374097
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"97f90d1f6f320e56219be07dc40a3b1b",
+    "wof:hierarchy":[
+        {
+            "country_id":85632491,
+            "locality_id":1209402773
+        }
+    ],
+    "wof:id":1209402773,
+    "wof:lastmodified":1536288091,
+    "wof:name":"Arch Hall",
+    "wof:parent_id":85632491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.61611,
+    13.179620000000002,
+    -59.61611,
+    13.179620000000002
+],
+  "geometry": {"coordinates":[-59.61611,13.17962],"type":"Point"}
+}

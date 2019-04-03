@@ -1,0 +1,65 @@
+{
+  "id": 1360307687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.53418,13.20828,-59.53418,13.20828",
+    "geom:latitude":13.20828,
+    "geom:longitude":-59.53418,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Joes River",
+    "gn:country_code":"BB",
+    "gn:dem":134,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373762,
+    "gn:latitude":13.20828,
+    "gn:longitude":-59.53418,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Joes River",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373762
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"db47237fc4ba9034987acc61cdcca653",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1360307687,
+            "region_id":85669457
+        }
+    ],
+    "wof:id":1360307687,
+    "wof:lastmodified":1536622519,
+    "wof:name":"Joes River",
+    "wof:parent_id":85669457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.53418000000001,
+    13.20828,
+    -59.53418000000001,
+    13.20828
+],
+  "geometry": {"coordinates":[-59.53418000000001,13.20828],"type":"Point"}
+}

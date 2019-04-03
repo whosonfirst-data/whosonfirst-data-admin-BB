@@ -1,0 +1,65 @@
+{
+  "id": 1310389779,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.6383,13.25315,-59.6383,13.25315",
+    "geom:latitude":13.25315,
+    "geom:longitude":-59.6383,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Litchfield",
+    "gn:country_code":"BB",
+    "gn:dem":21,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373730,
+    "gn:latitude":13.25315,
+    "gn:longitude":-59.6383,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Litchfield",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373730
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"f321a739338bebb05d06f7bb0b10f98c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1310389779,
+            "region_id":85669469
+        }
+    ],
+    "wof:id":1310389779,
+    "wof:lastmodified":1537080782,
+    "wof:name":"Litchfield",
+    "wof:parent_id":85669469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.6383,
+    13.25315,
+    -59.6383,
+    13.25315
+],
+  "geometry": {"coordinates":[-59.6383,13.25315],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1327331435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.54002,13.17506,-59.54002,13.17506",
+    "geom:latitude":13.17506,
+    "geom:longitude":-59.54002,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Redland",
+    "gn:country_code":"BB",
+    "gn:dem":233,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373611,
+    "gn:latitude":13.17506,
+    "gn:longitude":-59.54002,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Redland",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373611
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"53e122d9530a9edb56adb034dd89ed13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1327331435,
+            "region_id":85669445
+        }
+    ],
+    "wof:id":1327331435,
+    "wof:lastmodified":1536825690,
+    "wof:name":"Redland",
+    "wof:parent_id":85669445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.54002,
+    13.17506,
+    -59.54002,
+    13.17506
+],
+  "geometry": {"coordinates":[-59.54002,13.17506],"type":"Point"}
+}

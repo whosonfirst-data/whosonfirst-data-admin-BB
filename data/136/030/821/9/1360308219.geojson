@@ -1,0 +1,65 @@
+{
+  "id": 1360308219,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.50255,13.18889,-59.50255,13.18889",
+    "geom:latitude":13.18889,
+    "geom:longitude":-59.50255,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Clifton Hall",
+    "gn:country_code":"BB",
+    "gn:dem":223,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373977,
+    "gn:latitude":13.18889,
+    "gn:longitude":-59.50255,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Clifton Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373977
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"98ac922bfc3cbc17e109338bb786135e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1360308219,
+            "region_id":85669451
+        }
+    ],
+    "wof:id":1360308219,
+    "wof:lastmodified":1536621711,
+    "wof:name":"Clifton Hall",
+    "wof:parent_id":85669451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.50255,
+    13.18889,
+    -59.50255,
+    13.18889
+],
+  "geometry": {"coordinates":[-59.50255,13.18889],"type":"Point"}
+}

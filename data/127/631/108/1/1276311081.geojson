@@ -1,0 +1,65 @@
+{
+  "id": 1276311081,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.58455,13.18364,-59.58455,13.18364",
+    "geom:latitude":13.18364,
+    "geom:longitude":-59.58455,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Lion Castle Tenantry",
+    "gn:country_code":"BB",
+    "gn:dem":262,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373731,
+    "gn:latitude":13.18364,
+    "gn:longitude":-59.58455,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Lion Castle Tenantry",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373731
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"0f28af361fc7000c2489dd6cff6a625f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1276311081,
+            "region_id":85669477
+        }
+    ],
+    "wof:id":1276311081,
+    "wof:lastmodified":1536808219,
+    "wof:name":"Lion Castle Tenantry",
+    "wof:parent_id":85669477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.58455,
+    13.18364,
+    -59.58455,
+    13.18364
+],
+  "geometry": {"coordinates":[-59.58455,13.18364],"type":"Point"}
+}

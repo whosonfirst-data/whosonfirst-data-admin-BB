@@ -1,0 +1,66 @@
+{
+  "id": 1309696669,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.64313,13.26788,-59.64313,13.26788",
+    "geom:latitude":13.26788,
+    "geom:longitude":-59.64313,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Six Mens",
+    "gn:country_code":"BB",
+    "gn:dem":10,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373514,
+    "gn:latitude":13.26788,
+    "gn:longitude":-59.64313,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Six Mens",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373514,
+        "wk:page":"Six_Men%27s_Bay,_Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"51bfdf5881a9bbcc87029605f914494f",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1309696669,
+            "region_id":85669469
+        }
+    ],
+    "wof:id":1309696669,
+    "wof:lastmodified":1537486871,
+    "wof:name":"Six Mens",
+    "wof:parent_id":85669469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.64313000000001,
+    13.26788,
+    -59.64313000000001,
+    13.26788
+],
+  "geometry": {"coordinates":[-59.64313000000001,13.26788],"type":"Point"}
+}

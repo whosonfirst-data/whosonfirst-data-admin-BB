@@ -1,0 +1,66 @@
+{
+  "id": 1343855893,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.54762,13.22066,-59.54762,13.22066",
+    "geom:latitude":13.22066,
+    "geom:longitude":-59.54762,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Bissex",
+    "gn:country_code":"BB",
+    "gn:dem":209,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374059,
+    "gn:latitude":13.22066,
+    "gn:longitude":-59.54762,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Bissex",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374059,
+        "wk:page":"Bissex"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"cc03c591128000c26fa6dd1b2c740f46",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1343855893,
+            "region_id":85669457
+        }
+    ],
+    "wof:id":1343855893,
+    "wof:lastmodified":1537486873,
+    "wof:name":"Bissex",
+    "wof:parent_id":85669457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.54762,
+    13.22066,
+    -59.54762,
+    13.22066
+],
+  "geometry": {"coordinates":[-59.54762,13.22066],"type":"Point"}
+}

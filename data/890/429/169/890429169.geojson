@@ -1,0 +1,64 @@
+{
+  "id": 890429169,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.53333,13.18333,-59.53333,13.18333",
+    "geom:latitude":13.18333,
+    "geom:longitude":-59.53333,
+    "gn:country":"BB",
+    "gn:fcode":"PPL",
+    "gn:pop":623,
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "qs:name":"Blackmans",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374056,
+        "gp:id":56299,
+        "qs:id":95407
+    },
+    "wof:country":"BB",
+    "wof:created":1469051798,
+    "wof:geomhash":"576802a03d05a4a5946ef9ea70a33557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":890429169,
+            "region_id":85669451
+        }
+    ],
+    "wof:id":890429169,
+    "wof:lastmodified":1505343510,
+    "wof:name":"Blackmans",
+    "wof:parent_id":85669451,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.53333,
+    13.18333,
+    -59.53333,
+    13.18333
+],
+  "geometry": {"coordinates":[-59.53333,13.18333],"type":"Point"}
+}

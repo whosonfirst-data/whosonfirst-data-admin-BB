@@ -1,0 +1,65 @@
+{
+  "id": 1225858961,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.51702,13.07325,-59.51702,13.07325",
+    "geom:latitude":13.07325,
+    "geom:longitude":-59.51702,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Parish Land",
+    "gn:country_code":"BB",
+    "gn:dem":56,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373636,
+    "gn:latitude":13.07325,
+    "gn:longitude":-59.51702,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Parish Land",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373636
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"29a1b4d892e618777ad04981d4e7d1ba",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1225858961,
+            "region_id":85669435
+        }
+    ],
+    "wof:id":1225858961,
+    "wof:lastmodified":1536993690,
+    "wof:name":"Parish Land",
+    "wof:parent_id":85669435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.51702,
+    13.07325,
+    -59.51702,
+    13.07325
+],
+  "geometry": {"coordinates":[-59.51702,13.07325],"type":"Point"}
+}

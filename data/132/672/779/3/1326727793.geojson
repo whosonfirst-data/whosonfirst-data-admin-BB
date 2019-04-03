@@ -1,0 +1,65 @@
+{
+  "id": 1326727793,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.58469,13.19589,-59.58469,13.19589",
+    "geom:latitude":13.19589,
+    "geom:longitude":-59.58469,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Canefield",
+    "gn:country_code":"BB",
+    "gn:dem":313,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374018,
+    "gn:latitude":13.19589,
+    "gn:longitude":-59.58469,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Canefield",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374018
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"a52a6a86caa86ae2c19c75f4c2a63681",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1326727793,
+            "region_id":85669477
+        }
+    ],
+    "wof:id":1326727793,
+    "wof:lastmodified":1536702478,
+    "wof:name":"Canefield",
+    "wof:parent_id":85669477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.58469,
+    13.19589,
+    -59.58469,
+    13.19589
+],
+  "geometry": {"coordinates":[-59.58469,13.19589],"type":"Point"}
+}

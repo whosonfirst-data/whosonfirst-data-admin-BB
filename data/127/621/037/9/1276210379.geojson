@@ -1,0 +1,66 @@
+{
+  "id": 1276210379,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.48989,13.10356,-59.48989,13.10356",
+    "geom:latitude":13.10356,
+    "geom:longitude":-59.48989,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Woodbourne",
+    "gn:country_code":"BB",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373410,
+    "gn:latitude":13.10356,
+    "gn:longitude":-59.48989,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Woodbourne",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373410,
+        "wk:page":"Woodbourne%2C_Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"97efb5a38bf9dc6aed9f58b78e97a50a",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1276210379,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":1276210379,
+    "wof:lastmodified":1537486871,
+    "wof:name":"Woodbourne",
+    "wof:parent_id":85669473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.48989,
+    13.10356,
+    -59.48989,
+    13.10356
+],
+  "geometry": {"coordinates":[-59.48989,13.10356],"type":"Point"}
+}

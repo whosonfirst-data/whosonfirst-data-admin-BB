@@ -1,0 +1,322 @@
+{
+  "id": 85669435,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.004787,
+    "geom:area_square_m":57651672.327969,
+    "geom:bbox":"-59.600242749,13.0511742215,-59.4757757864,13.1294314642",
+    "geom:latitude":13.090966,
+    "geom:longitude":-59.529484,
+    "gn:population":48119,
+    "iso:country":"BB",
+    "label:eng_x_preferred_longname":[
+        "Christ Church Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":13.090775,
+    "lbl:longitude":-59.524293,
+    "mps:latitude":13.090775,
+    "mps:longitude":-59.524293,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0643\u0646\u064a\u0633\u0629 \u0627\u0644\u0645\u0633\u064a\u062d"
+    ],
+    "name:ben_x_preferred":[
+        "\"\u0996\u09cd\u09b0\u09c0\u09b7\u09cd\u099f \u099a\u09be\u09b0\u09cd\u099a"
+    ],
+    "name:cat_x_preferred":[
+        "Christ Church"
+    ],
+    "name:ceb_x_preferred":[
+        "Christ Church"
+    ],
+    "name:chi_x_preferred":[
+        "\u57fa\u7763\u57ce\u6559\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Christ Church"
+    ],
+    "name:dan_x_preferred":[
+        "Christ Church"
+    ],
+    "name:dut_x_preferred":[
+        "Christ Church"
+    ],
+    "name:ell_x_preferred":[
+        "\u039a\u03c1\u03ac\u03b9\u03c3\u03c4 \u03a4\u03c3\u03b5\u03c1\u03c4\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Christ Church"
+    ],
+    "name:epo_x_preferred":[
+        "Krista Kirko"
+    ],
+    "name:fas_x_preferred":[
+        "\u06a9\u0631\u0627\u06cc\u0633\u062a \u0686\u0631\u0686\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Christ Church"
+    ],
+    "name:fra_x_preferred":[
+        "Christ Church"
+    ],
+    "name:fre_x_preferred":[
+        "Christ Church"
+    ],
+    "name:ger_x_preferred":[
+        "Christchurch"
+    ],
+    "name:gre_x_preferred":[
+        "\u039a\u03c1\u03ac\u03b9\u03c3\u03c4 \u03a4\u03c3\u03b5\u03c1\u03c4\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0a95\u0acd\u0ab0\u0abf\u0ab8\u0acd\u0a9f \u0a9a\u0ab0\u0acd\u0a9a"
+    ],
+    "name:hin_x_preferred":[
+        "\u0915\u094d\u0930\u093e\u0907\u0938\u094d\u091f \u091a\u0930\u094d\u091a"
+    ],
+    "name:ind_x_preferred":[
+        "Christ Church"
+    ],
+    "name:ita_x_preferred":[
+        "Christ Church"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30a4\u30b9\u30c8\u30fb\u30c1\u30e3\u30fc\u30c1"
+    ],
+    "name:kan_x_preferred":[
+        "\u0c95\u0ccd\u0cb0\u0cc8\u0cb8\u0ccd\u0c9f\u0ccd \u0c9a\u0cb0\u0ccd\u0c9a\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\ud06c\ub77c\uc774\uc2a4\ud2b8\ucc98\uce58 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Kraist\u010d\u0113r\u010das pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "Kristaus ba\u017eny\u010dios parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0915\u094d\u0930\u093e\u0907\u0938\u094d\u091f \u091a\u0930\u094d\u091a"
+    ],
+    "name:may_x_preferred":[
+        "Kariah Christ Church"
+    ],
+    "name:msa_x_preferred":[
+        "Kariah Christ Church"
+    ],
+    "name:nld_x_preferred":[
+        "Christ Church"
+    ],
+    "name:nob_x_preferred":[
+        "Christ Church prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Christ Church prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u06a9\u0631\u0627\u06cc\u0633\u062a \u0686\u0631\u0686\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Christ Church"
+    ],
+    "name:por_x_preferred":[
+        "Christ Church"
+    ],
+    "name:ron_x_preferred":[
+        "Christ Church"
+    ],
+    "name:rum_x_preferred":[
+        "Christ Church"
+    ],
+    "name:rus_x_preferred":[
+        "\u041a\u0440\u0430\u0439\u0441\u0442\u0447\u0435\u0440\u0447"
+    ],
+    "name:sin_x_preferred":[
+        "\u0d9a\u0dca\u200d\u0dbb\u0dba\u0dd2\u0dc3\u0dca\u0da7\u0dca\u0da0\u0dbb\u0dca\u0da0\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Christ Church"
+    ],
+    "name:swe_x_preferred":[
+        "Christ Church"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b95\u0bbf\u0bb1\u0bbf\u0bb8\u0bcd\u0b9f\u0bcd \u0b9a\u0bb0\u0bcd\u0b9a\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c15\u0c4d\u0c30\u0c48\u0c38\u0c4d\u0c1f\u0c4d \u0c1a\u0c30\u0c4d\u0c1a\u0c3f"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e04\u0e23\u0e34\u0e2a \u0e04\u0e23\u0e31\u0e0b"
+    ],
+    "name:tur_x_preferred":[
+        "Christ Kilisesi"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041a\u0440\u0430\u0439\u0441\u0442-\u0427\u0435\u0440\u0447"
+    ],
+    "name:unk_x_variant":[
+        "Christchurch"
+    ],
+    "name:urd_x_preferred":[
+        "\u06a9\u0631\u0627\u0626\u0633\u0679 \u0686\u0631\u0686\u060c \u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Christ Church"
+    ],
+    "name:zho_x_preferred":[
+        "\u57fa\u7763\u57ce\u6559\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BRB",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BRB-1989",
+    "ne:adm1_code":"BRB-1989",
+    "ne:admin":"Barbados",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BB.CC",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1989",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BB01",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Barbados",
+    "ne:gn_a1_code":"BB.01",
+    "ne:gn_id":"3373988",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Christ Church",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BB01",
+    "ne:gns_id":"-1393333",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Christ Church",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BRB",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BB-",
+    "ne:iso_a2":"BB",
+    "ne:labelrank":"10",
+    "ne:latitude":"13.08730000000",
+    "ne:longitude":"-59.53800000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":5,
+    "ne:name":"Christ Church",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"CC",
+    "ne:provnum_ne":"5",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"BRB",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344730,
+    "ne:woe_label":"Christ Church, BB, Barbados",
+    "ne:woe_name":"Christ Church",
+    "qs:a0":"Barbados",
+    "qs:a0_lc":"BB",
+    "qs:a1":"Christ Church",
+    "qs:a1_lc":"BRB-1989",
+    "qs:adm0":"Barbados",
+    "qs:adm0_a3":"BRB",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-01",
+    "statoids:area_km":"57",
+    "statoids:area_mi":"22",
+    "statoids:as_of_date":"2010-05-01",
+    "statoids:capital":"",
+    "statoids:country":"BB",
+    "statoids:gec":"BB01",
+    "statoids:hasc":"BB.CC",
+    "statoids:iso":"01",
+    "statoids:name":"Christ Church",
+    "statoids:population":"54336",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"BB-01",
+    "wd:wordcount":1496,
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BB01",
+        "gn:id":3373988,
+        "gp:id":2344730,
+        "hasc:id":"BB.CC",
+        "iso:id":"BB-01",
+        "qs:id":222803,
+        "unlc:id":"BB-01",
+        "wd:id":"Q1626524",
+        "wk:page":"Christ Church, Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"5d97af87dcd913afa872c908168873c7",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "region_id":85669435
+        }
+    ],
+    "wof:id":85669435,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814712,
+    "wof:name":"Christ Church",
+    "wof:parent_id":85632491,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":54336,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:shortcode":"CC",
+    "wof:subdivision":"BB-01",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.6002427490036,
+    13.05117422151318,
+    -59.47577578642336,
+    13.12943146419076
+],
+  "geometry": {"coordinates":[[[-59.47577578642336,13.08649525045547],[-59.47577877487055,13.0864932314775],[-59.48753821461685,13.07855866145309],[-59.50885983001712,13.0573184275035],[-59.51671301949023,13.05638255431148],[-59.52310136623504,13.05646393396341],[-59.5292862620513,13.05540599219285],[-59.53612219957978,13.05117422151318],[-59.54596920491485,13.06769440327412],[-59.56444251181244,13.07802969011817],[-59.58690344953453,13.08319733309048],[-59.6002427490036,13.08413271075602],[-59.56927832743281,13.10018260284488],[-59.56883907696181,13.10023427968832],[-59.56896826817098,13.10157786682515],[-59.57046688493875,13.1081924497218],[-59.51310604470814,13.12943146419076],[-59.50375261069439,13.12658926028621],[-59.50227983324766,13.12514232036182],[-59.50057451000561,13.12245514608816],[-59.49894670292798,13.11155141936257],[-59.49866248208781,13.11077627210733],[-59.49279720712536,13.10095775010012],[-59.49153113525364,13.09816722303896],[-59.49155697277604,13.09775381098962],[-59.49060095926683,13.09703034147714],[-59.48892147534576,13.09651357753961],[-59.48321122911489,13.09434316720348],[-59.48065324605045,13.09310293195477],[-59.47577578642336,13.08649525045547]]],"type":"Polygon"}
+}

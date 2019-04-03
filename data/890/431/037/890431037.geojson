@@ -1,0 +1,109 @@
+{
+  "id": 890431037,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.53333,13.06667,-59.53333,13.06667",
+    "geom:latitude":13.06667,
+    "geom:longitude":-59.53333,
+    "gn:country":"BB",
+    "gn:fcode":"PPL",
+    "gn:pop":2285,
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Oistins"
+    ],
+    "name:eng_x_preferred":[
+        "Oistins"
+    ],
+    "name:fre_x_preferred":[
+        "Oistins"
+    ],
+    "name:ger_x_preferred":[
+        "Oistins"
+    ],
+    "name:gre_x_preferred":[
+        "\u038c\u03b9\u03c3\u03c4\u03b9\u03bd\u03c2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d0\u05d5\u05d9\u05e1\u05d8\u05d9\u05e0\u05e1"
+    ],
+    "name:ita_x_preferred":[
+        "Oistins"
+    ],
+    "name:lit_x_preferred":[
+        "Oistinsas"
+    ],
+    "name:pol_x_preferred":[
+        "Oistins"
+    ],
+    "name:por_x_preferred":[
+        "Oistins"
+    ],
+    "name:spa_x_preferred":[
+        "Oistins"
+    ],
+    "name:swe_x_preferred":[
+        "Oistins"
+    ],
+    "name:unk_x_variant":[
+        "Oistin\u2019s Town"
+    ],
+    "name:urd_x_preferred":[
+        "\u0627\u0648\u0626\u0633\u0679\u0646\u0633"
+    ],
+    "qs:name":"Oistins",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"4",
+    "src:population":"geonames",
+    "wd:wordcount":351,
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373652,
+        "gp:id":56575,
+        "qs:id":279732,
+        "wd:id":"Q692475",
+        "wk:page":"Oistins"
+    },
+    "wof:country":"BB",
+    "wof:created":1469051875,
+    "wof:geomhash":"0f4a4fc4a5d2993bc43982eba97d6ca1",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":890431037,
+            "region_id":85669435
+        }
+    ],
+    "wof:id":890431037,
+    "wof:lastmodified":1527735413,
+    "wof:name":"Oistins",
+    "wof:parent_id":85669435,
+    "wof:placetype":"locality",
+    "wof:population":2285,
+    "wof:population_rank":4,
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.53333,
+    13.06667,
+    -59.53333,
+    13.06667
+],
+  "geometry": {"coordinates":[-59.53333,13.06667],"type":"Point"}
+}

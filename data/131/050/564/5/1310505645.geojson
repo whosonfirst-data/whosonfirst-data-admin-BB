@@ -1,0 +1,65 @@
+{
+  "id": 1310505645,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.52633,13.11051,-59.52633,13.11051",
+    "geom:latitude":13.11051,
+    "geom:longitude":-59.52633,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Lower Greys",
+    "gn:country_code":"BB",
+    "gn:dem":55,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373717,
+    "gn:latitude":13.11051,
+    "gn:longitude":-59.52633,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Lower Greys",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373717
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"67296bf950df1a8f25ded5bf17bcbf09",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1310505645,
+            "region_id":85669435
+        }
+    ],
+    "wof:id":1310505645,
+    "wof:lastmodified":1536917185,
+    "wof:name":"Lower Greys",
+    "wof:parent_id":85669435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.52633,
+    13.11051,
+    -59.52633,
+    13.11051
+],
+  "geometry": {"coordinates":[-59.52633,13.11051],"type":"Point"}
+}

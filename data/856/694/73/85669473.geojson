@@ -1,0 +1,317 @@
+{
+  "id": 85669473,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.005392,
+    "geom:area_square_m":64931672.595857,
+    "geom:bbox":"-59.5131060447,13.0864952505,-59.4269099602,13.1865376614",
+    "geom:latitude":13.138206,
+    "geom:longitude":-59.467338,
+    "gn:population":20944,
+    "iso:country":"BB",
+    "label:eng_x_preferred_longname":[
+        "Saint Philip Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":13.136257,
+    "lbl:longitude":-59.468155,
+    "mps:latitude":13.136257,
+    "mps:longitude":-59.468155,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0641\u064a\u0644\u064a\u0628\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09ab\u09bf\u09b2\u09bf\u09aa"
+    ],
+    "name:cat_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u83f2\u5229\u666e\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:eng_x_variant":[
+        "St Philip",
+        "St. Philip"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Filipo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u0641\u06cc\u0644\u06cc\u067e\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:fra_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:fre_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u03a6\u03af\u03bb\u03b9\u03c0\u03c0\u03bf\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aab\u0abf\u0ab2\u0abf\u0aaa"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092b\u093f\u0932\u093f\u092a"
+    ],
+    "name:ind_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:ita_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30d5\u30a3\u30ea\u30c3\u30d7"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0cab\u0cbf\u0cb2\u0cbf\u0caa\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ud544\ub9bd \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentfilipa pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Pilypo parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092b\u093f\u0932\u093f\u092a"
+    ],
+    "name:may_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Philip prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646\u062a \u0641\u06cc\u0644\u06cc\u067e\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:por_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:ron_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:rum_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0424\u0438\u043b\u0438\u043f"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0db4\u0dd2\u0dbd\u0dd2\u0db4\u0dca"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Philip"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0baa\u0bbf\u0bb2\u0bbf\u0baa\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c2b\u0c3f\u0c32\u0c3f\u0c2a\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c \u0e1f\u0e34\u0e25\u0e25\u0e34\u0e1b"
+    ],
+    "name:tur_x_preferred":[
+        "Sain Philip"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u0424\u0456\u043b\u0456\u043f"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0641\u0644\u067e\u060c \u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Saint Philip"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u83f2\u5229\u666e\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BRB",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BRB-1998",
+    "ne:adm1_code":"BRB-1998",
+    "ne:admin":"Barbados",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BB.PH",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1998",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BB10",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Barbados",
+    "ne:gn_a1_code":"BB.10",
+    "ne:gn_id":"3373553",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Philip",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BB10",
+    "ne:gns_id":"-1393768",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Philip",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BRB",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BB-",
+    "ne:iso_a2":"BB",
+    "ne:labelrank":"10",
+    "ne:latitude":"13.13680000000",
+    "ne:longitude":"-59.47000000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":5,
+    "ne:name":"Saint Philip",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"PH",
+    "ne:provnum_ne":"4",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"BRB",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344739,
+    "ne:woe_label":"Saint Philip, BB, Barbados",
+    "ne:woe_name":"Saint Philip",
+    "qs:a0":"Barbados",
+    "qs:a0_lc":"BB",
+    "qs:a1":"Saint Philip",
+    "qs:a1_lc":"BRB-1998",
+    "qs:adm0":"Barbados",
+    "qs:adm0_a3":"BRB",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-01",
+    "statoids:area_km":"60",
+    "statoids:area_mi":"23",
+    "statoids:as_of_date":"2010-05-01",
+    "statoids:capital":"",
+    "statoids:country":"BB",
+    "statoids:gec":"BB10",
+    "statoids:hasc":"BB.PH",
+    "statoids:iso":"10",
+    "statoids:name":"Saint Philip",
+    "statoids:population":"30662",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"BB-10",
+    "wd:wordcount":277,
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BB10",
+        "gn:id":3373553,
+        "gp:id":2344739,
+        "hasc:id":"BB.PH",
+        "iso:id":"BB-10",
+        "qs:id":423564,
+        "unlc:id":"BB-10",
+        "wd:id":"Q1647436",
+        "wk:page":"Saint Philip, Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"be390a34594495819d460a874863d897",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":85669473,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814712,
+    "wof:name":"Saint Philip",
+    "wof:parent_id":85632491,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":30662,
+    "wof:population_rank":7,
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:shortcode":"PH",
+    "wof:subdivision":"BB-10",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.51310604470814,
+    13.08649525045547,
+    -59.42690996022645,
+    13.18653766138402
+],
+  "geometry": {"coordinates":[[[-59.42690996022645,13.16038645996719],[-59.43004309751092,13.12592194264357],[-59.45571855396804,13.10004303615722],[-59.47577578642336,13.08649525045547],[-59.48065324605045,13.09310293195477],[-59.48321122911489,13.09434316720348],[-59.48892147534576,13.09651357753961],[-59.49060095926683,13.09703034147714],[-59.49155697277604,13.09775381098962],[-59.49153113525364,13.09816722303896],[-59.49279720712536,13.10095775010012],[-59.49866248208781,13.11077627210733],[-59.49894670292798,13.11155141936257],[-59.50057451000561,13.12245514608816],[-59.50227983324766,13.12514232036182],[-59.50375261069439,13.12658926028621],[-59.51310604470814,13.12943146419076],[-59.50871354809175,13.14576121720648],[-59.49535519108917,13.16296946936558],[-59.48819800493396,13.16575999642674],[-59.48145422992872,13.16989411152406],[-59.48016231963533,13.17113434497406],[-59.4692069160663,13.18415680609178],[-59.4676824608768,13.18653392200292],[-59.46768006238494,13.18653766138402],[-59.45710201704441,13.18317291899507],[-59.43862871014682,13.1748721369396],[-59.42690996022645,13.16038645996719]]],"type":"Polygon"}
+}

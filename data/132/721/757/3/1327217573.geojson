@@ -1,0 +1,66 @@
+{
+  "id": 1327217573,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.46831,13.10985,-59.46831,13.10985",
+    "geom:latitude":13.10985,
+    "geom:longitude":-59.46831,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Blades",
+    "gn:country_code":"BB",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374053,
+    "gn:latitude":13.10985,
+    "gn:longitude":-59.46831,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Blades",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374053,
+        "wk:page":"Blades,_Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"40a4db6f7cba14bf19b4f5ae6466a41e",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1327217573,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":1327217573,
+    "wof:lastmodified":1537486873,
+    "wof:name":"Blades",
+    "wof:parent_id":85669473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.46831,
+    13.10985,
+    -59.46831,
+    13.10985
+],
+  "geometry": {"coordinates":[-59.46831,13.10985],"type":"Point"}
+}

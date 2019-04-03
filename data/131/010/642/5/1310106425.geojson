@@ -1,0 +1,65 @@
+{
+  "id": 1310106425,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.58745,13.15488,-59.58745,13.15488",
+    "geom:latitude":13.15488,
+    "geom:longitude":-59.58745,
+    "gn:admin1_code":"04",
+    "gn:asciiname":"Exchange",
+    "gn:country_code":"BB",
+    "gn:dem":120,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373898,
+    "gn:latitude":13.15488,
+    "gn:longitude":-59.58745,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Exchange",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373898
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"fb043cb24f1391a489540f6b4c461ee9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1310106425,
+            "region_id":85669465
+        }
+    ],
+    "wof:id":1310106425,
+    "wof:lastmodified":1536994334,
+    "wof:name":"Exchange",
+    "wof:parent_id":85669465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.58745,
+    13.15488,
+    -59.58745,
+    13.15488
+],
+  "geometry": {"coordinates":[-59.58745,13.15488],"type":"Point"}
+}

@@ -1,0 +1,64 @@
+{
+  "id": 1310519071,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.51272,13.05644,-59.51272,13.05644",
+    "geom:latitude":13.05644,
+    "geom:longitude":-59.51272,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Ealing Park",
+    "gn:country_code":"BB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373916,
+    "gn:latitude":13.05644,
+    "gn:longitude":-59.51272,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Ealing Park",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373916
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"427cfeaaf10c153d54aeead22450dde0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1310519071,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310519071,
+    "wof:lastmodified":1536897183,
+    "wof:name":"Ealing Park",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.51272,
+    13.05644,
+    -59.51272,
+    13.05644
+],
+  "geometry": {"coordinates":[-59.51272,13.05644],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293281385,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.60534,13.20372,-59.60534,13.20372",
+    "geom:latitude":13.20372,
+    "geom:longitude":-59.60534,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Plumtree",
+    "gn:country_code":"BB",
+    "gn:dem":218,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373624,
+    "gn:latitude":13.20372,
+    "gn:longitude":-59.60534,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Plumtree",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669477
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373624
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"b55edd33e228792383fbdd8c76ea7964",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1293281385,
+            "region_id":85669477
+        }
+    ],
+    "wof:id":1293281385,
+    "wof:lastmodified":1537081004,
+    "wof:name":"Plumtree",
+    "wof:parent_id":85669477,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.60534000000001,
+    13.20372,
+    -59.60534000000001,
+    13.20372
+],
+  "geometry": {"coordinates":[-59.60534000000001,13.20372],"type":"Point"}
+}

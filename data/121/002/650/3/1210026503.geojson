@@ -1,0 +1,65 @@
+{
+  "id": 1210026503,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.61829,13.14491,-59.61829,13.14491",
+    "geom:latitude":13.14491,
+    "geom:longitude":-59.61829,
+    "gn:admin1_code":"00",
+    "gn:asciiname":"Clermont",
+    "gn:country_code":"BB",
+    "gn:dem":123,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373980,
+    "gn:latitude":13.14491,
+    "gn:longitude":-59.61829,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Clermont",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373980
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"37ca5e456f017e06ca82a301e46a453d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1210026503,
+            "region_id":85669449
+        }
+    ],
+    "wof:id":1210026503,
+    "wof:lastmodified":1536390485,
+    "wof:name":"Clermont",
+    "wof:parent_id":85669449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.61829,
+    13.14491,
+    -59.61829,
+    13.14491
+],
+  "geometry": {"coordinates":[-59.61829,13.14491],"type":"Point"}
+}

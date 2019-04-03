@@ -1,0 +1,61 @@
+{
+  "id": 1209604199,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.43303,13.15784,-59.43303,13.15784",
+    "geom:latitude":13.15784,
+    "geom:longitude":-59.43303,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Industry Hall",
+    "gn:country_code":"BB",
+    "gn:dem":31,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373770,
+    "gn:latitude":13.15784,
+    "gn:longitude":-59.43303,
+    "gn:modification_date":"2015-08-29",
+    "gn:name":"Industry Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373770
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"b4c3aef3bba952d25e654159272cc851",
+    "wof:hierarchy":[
+        {
+            "country_id":85632491,
+            "locality_id":1209604199
+        }
+    ],
+    "wof:id":1209604199,
+    "wof:lastmodified":1536282066,
+    "wof:name":"Industry Hall",
+    "wof:parent_id":85632491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.43303,
+    13.15784,
+    -59.43303,
+    13.15784
+],
+  "geometry": {"coordinates":[-59.43303,13.15784],"type":"Point"}
+}

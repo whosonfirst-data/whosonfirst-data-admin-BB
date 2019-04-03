@@ -1,0 +1,66 @@
+{
+  "id": 1260177821,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.62207,13.26597,-59.62207,13.26597",
+    "geom:latitude":13.26597,
+    "geom:longitude":-59.62207,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Mile and a Quarter",
+    "gn:country_code":"BB",
+    "gn:dem":85,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373689,
+    "gn:latitude":13.26597,
+    "gn:longitude":-59.62207,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Mile and a Quarter",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373689,
+        "wk:page":"Mile_and_a_Quarter"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"57a3fb0ede223663798d24871a6c2836",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1260177821,
+            "region_id":85669469
+        }
+    ],
+    "wof:id":1260177821,
+    "wof:lastmodified":1537486872,
+    "wof:name":"Mile and a Quarter",
+    "wof:parent_id":85669469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.62207,
+    13.26597,
+    -59.62207,
+    13.26597
+],
+  "geometry": {"coordinates":[-59.62207,13.26597],"type":"Point"}
+}

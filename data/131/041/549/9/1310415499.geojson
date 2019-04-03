@@ -1,0 +1,65 @@
+{
+  "id": 1310415499,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.53281,13.04917,-59.53281,13.04917",
+    "geom:latitude":13.04917,
+    "geom:longitude":-59.53281,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Atlantic Shores",
+    "gn:country_code":"BB",
+    "gn:dem":15,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374092,
+    "gn:latitude":13.04917,
+    "gn:longitude":-59.53281,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Atlantic Shores",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374092,
+        "wk:page":"Atlantic_Shores,_Christ_Church,_Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"b4d9f0abc551c7c4fe908aa5abd28ed9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1310415499,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1310415499,
+    "wof:lastmodified":1537486874,
+    "wof:name":"Atlantic Shores",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.53281,
+    13.04917,
+    -59.53281,
+    13.04917
+],
+  "geometry": {"coordinates":[-59.53281,13.04917],"type":"Point"}
+}

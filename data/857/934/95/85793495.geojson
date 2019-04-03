@@ -1,0 +1,97 @@
+{
+  "id": 85793495,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":10882838.829409,
+    "geom:bbox":"-59.610205,13.081927,-59.610205,13.081927",
+    "geom:latitude":13.081927,
+    "geom:longitude":-59.610205,
+    "iso:country":"BB",
+    "lbl:latitude":13.081927,
+    "lbl:longitude":-59.610205,
+    "mps:latitude":13.07864,
+    "mps:longitude":-59.613312,
+    "mz:hierarchy_label":0,
+    "mz:is_current":1,
+    "mz:is_funky":0,
+    "mz:is_hard_boundary":0,
+    "mz:is_landuse_aoi":0,
+    "mz:is_official":0,
+    "mz:max_zoom":18.0,
+    "mz:min_zoom":13.0,
+    "mz:tier_locality":2,
+    "name:eng_x_preferred":[
+        "Cheapside"
+    ],
+    "name:unk_x_variant":[
+        "Cheapside"
+    ],
+    "qs:gn_id":0,
+    "qs:gn_local":0,
+    "qs:id":0,
+    "qs:local_max":3299,
+    "qs:local_sum":5583,
+    "qs:localhoods":7,
+    "qs:name":"Cheapside",
+    "qs:name_adm0":"Barbados",
+    "qs:name_adm1":"Saint Michael",
+    "qs:name_local":"Bridgetown",
+    "qs:photo_max":209,
+    "qs:photo_sum":1409,
+    "qs:placetype":"Suburb",
+    "qs:quad_count":42,
+    "qs:woe_adm0":23424754,
+    "qs:woe_adm1":2344737,
+    "qs:woe_adm2":0,
+    "qs:woe_lau":0,
+    "qs:woe_local":56334,
+    "qs:woe_ver":"7.10.0",
+    "src:geom":"mz",
+    "src:geom_alt":[
+        "quattroshapes"
+    ],
+    "src:lbl:centroid":"yerbashapes",
+    "wd:wordcount":1682,
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":56362
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"cf1c6731f45dca59c78fb0385ffc95a9",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":-1,
+            "neighbourhood_id":85793495,
+            "region_id":-1
+        }
+    ],
+    "wof:id":85793495,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lastmodified":1531861378,
+    "wof:name":"Cheapside",
+    "wof:parent_id":-1,
+    "wof:placetype":"neighbourhood",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.610205,
+    13.081927,
+    -59.610205,
+    13.081927
+],
+  "geometry": {"coordinates":[-59.610205,13.081927],"type":"Point"}
+}

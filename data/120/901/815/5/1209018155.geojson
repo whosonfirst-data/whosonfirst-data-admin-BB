@@ -1,0 +1,61 @@
+{
+  "id": 1209018155,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.51921,13.06723,-59.51921,13.06723",
+    "geom:latitude":13.06723,
+    "geom:longitude":-59.51921,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Gibbons",
+    "gn:country_code":"BB",
+    "gn:dem":41,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPLL",
+    "gn:geonameid":3373854,
+    "gn:latitude":13.06723,
+    "gn:longitude":-59.51921,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Gibbons",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373854
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"0eb0d7b8db6be61f50b339b7f1f82121",
+    "wof:hierarchy":[
+        {
+            "country_id":85632491,
+            "locality_id":1209018155
+        }
+    ],
+    "wof:id":1209018155,
+    "wof:lastmodified":1536300230,
+    "wof:name":"Gibbons",
+    "wof:parent_id":85632491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.51921,
+    13.06723,
+    -59.51921,
+    13.06723
+],
+  "geometry": {"coordinates":[-59.51921,13.06723],"type":"Point"}
+}

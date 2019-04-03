@@ -1,0 +1,65 @@
+{
+  "id": 1259566977,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.46454,13.14737,-59.46454,13.14737",
+    "geom:latitude":13.14737,
+    "geom:longitude":-59.46454,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Vineyard",
+    "gn:country_code":"BB",
+    "gn:dem":71,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373446,
+    "gn:latitude":13.14737,
+    "gn:longitude":-59.46454,
+    "gn:modification_date":"2016-10-29",
+    "gn:name":"Vineyard",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373446
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"fd0ddb0ef49ec2689cc493d5365cff5d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1259566977,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":1259566977,
+    "wof:lastmodified":1536738576,
+    "wof:name":"Vineyard",
+    "wof:parent_id":85669473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.46454,
+    13.14737,
+    -59.46454,
+    13.14737
+],
+  "geometry": {"coordinates":[-59.46454,13.14737],"type":"Point"}
+}

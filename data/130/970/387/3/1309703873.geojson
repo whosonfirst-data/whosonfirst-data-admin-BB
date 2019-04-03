@@ -1,0 +1,66 @@
+{
+  "id": 1309703873,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.58443,13.29968,-59.58443,13.29968",
+    "geom:latitude":13.29968,
+    "geom:longitude":-59.58443,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Cave Hill",
+    "gn:country_code":"BB",
+    "gn:dem":68,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374004,
+    "gn:latitude":13.29968,
+    "gn:longitude":-59.58443,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Cave Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374004,
+        "wk:page":"Cave_Hill,_Saint_Lucy,_Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"328d292b63ed000f9a692f5fbc35af26",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1309703873,
+            "region_id":85669469
+        }
+    ],
+    "wof:id":1309703873,
+    "wof:lastmodified":1537486873,
+    "wof:name":"Cave Hill",
+    "wof:parent_id":85669469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.58443000000001,
+    13.29968,
+    -59.58443000000001,
+    13.29968
+],
+  "geometry": {"coordinates":[-59.58443000000001,13.29968],"type":"Point"}
+}

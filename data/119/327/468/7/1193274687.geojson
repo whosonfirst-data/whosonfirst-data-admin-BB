@@ -1,0 +1,65 @@
+{
+  "id": 1193274687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.50137,13.17251,-59.50137,13.17251",
+    "geom:latitude":13.17251,
+    "geom:longitude":-59.50137,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Small Town",
+    "gn:country_code":"BB",
+    "gn:dem":197,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373509,
+    "gn:latitude":13.17251,
+    "gn:longitude":-59.50137,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Small Town",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373509
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"447fe0b5bb694ab04f5a8d960e494f13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1193274687,
+            "region_id":85669451
+        }
+    ],
+    "wof:id":1193274687,
+    "wof:lastmodified":1536366896,
+    "wof:name":"Small Town",
+    "wof:parent_id":85669451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.50137,
+    13.17251,
+    -59.50137,
+    13.17251
+],
+  "geometry": {"coordinates":[-59.50137,13.17251],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1343276193,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.51993,13.07785,-59.51993,13.07785",
+    "geom:latitude":13.07785,
+    "geom:longitude":-59.51993,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Providence",
+    "gn:country_code":"BB",
+    "gn:dem":86,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373614,
+    "gn:latitude":13.07785,
+    "gn:longitude":-59.51993,
+    "gn:modification_date":"2016-03-09",
+    "gn:name":"Providence",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373614
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"53d7f95482f4b469ae44ff6793c2a557",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1343276193,
+            "region_id":85669435
+        }
+    ],
+    "wof:id":1343276193,
+    "wof:lastmodified":1537011399,
+    "wof:name":"Providence",
+    "wof:parent_id":85669435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.51993,
+    13.07785,
+    -59.51993,
+    13.07785
+],
+  "geometry": {"coordinates":[-59.51993,13.07785],"type":"Point"}
+}

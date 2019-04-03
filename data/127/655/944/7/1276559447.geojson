@@ -1,0 +1,65 @@
+{
+  "id": 1276559447,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.55772,13.13996,-59.55772,13.13996",
+    "geom:latitude":13.13996,
+    "geom:longitude":-59.55772,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Lion",
+    "gn:country_code":"BB",
+    "gn:dem":150,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373732,
+    "gn:latitude":13.13996,
+    "gn:longitude":-59.55772,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Lion",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373732
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"31ae11299e482b9d15ff3dfbe9afb50b",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1276559447,
+            "region_id":85669445
+        }
+    ],
+    "wof:id":1276559447,
+    "wof:lastmodified":1536972651,
+    "wof:name":"Lion",
+    "wof:parent_id":85669445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.55772,
+    13.13996,
+    -59.55772,
+    13.13996
+],
+  "geometry": {"coordinates":[-59.55772,13.13996],"type":"Point"}
+}

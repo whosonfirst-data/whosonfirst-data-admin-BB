@@ -1,0 +1,70 @@
+{
+  "id": 1344042939,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.59688,13.09762,-59.59688,13.09762",
+    "geom:latitude":13.09762,
+    "geom:longitude":-59.59688,
+    "gn:admin1_code":"08",
+    "gn:asciiname":"Pine Housing Estate",
+    "gn:cc2":"BB",
+    "gn:country_code":"BB",
+    "gn:dem":48,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373626,
+    "gn:latitude":13.09762,
+    "gn:longitude":-59.59688,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Pine Housing Estate",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Pine",
+        "Pine Housing Estate"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669465
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373626
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"d023e31d632e002fae0e32e89fba10f6",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1344042939,
+            "region_id":85669465
+        }
+    ],
+    "wof:id":1344042939,
+    "wof:lastmodified":1537585684,
+    "wof:name":"Pine Housing Estate",
+    "wof:parent_id":85669465,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.59688000000001,
+    13.09762,
+    -59.59688000000001,
+    13.09762
+],
+  "geometry": {"coordinates":[-59.59688000000001,13.09762],"type":"Point"}
+}

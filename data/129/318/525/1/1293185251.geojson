@@ -1,0 +1,68 @@
+{
+  "id": 1293185251,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.59682,13.26829,-59.59682,13.26829",
+    "geom:latitude":13.26829,
+    "geom:longitude":-59.59682,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Welchtown",
+    "gn:country_code":"BB",
+    "gn:dem":213,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373427,
+    "gn:latitude":13.26829,
+    "gn:longitude":-59.59682,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Welchtown",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Welch Town"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373427
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"7b83cd8b461fa87698330e1eabbdc1a0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1293185251,
+            "region_id":85669439
+        }
+    ],
+    "wof:id":1293185251,
+    "wof:lastmodified":1537585684,
+    "wof:name":"Welchtown",
+    "wof:parent_id":85669439,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.59682,
+    13.26829,
+    -59.59682,
+    13.26829
+],
+  "geometry": {"coordinates":[-59.59682,13.26829],"type":"Point"}
+}

@@ -1,0 +1,359 @@
+{
+  "id": 85669465,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003344,
+    "geom:area_square_m":40264364.030594,
+    "geom:bbox":"-59.6406071643,13.0841327108,-59.568839077,13.161315823",
+    "geom:latitude":13.119707,
+    "geom:longitude":-59.602571,
+    "gn:population":99609,
+    "iso:country":"BB",
+    "label:eng_x_preferred_longname":[
+        "Saint Michael Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":13.120131,
+    "lbl:longitude":-59.603234,
+    "mps:latitude":13.120131,
+    "mps:longitude":-59.603234,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:alb_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:ara_x_preferred":[
+        "\u0623\u0628\u0631\u0634\u064a\u0629 \u0633\u0627\u0646\u062a \u0645\u0627\u064a\u0643\u0644"
+    ],
+    "name:arm_x_preferred":[
+        "\u054d\u0565\u0576 \u0544\u056b\u0577\u0565\u056c"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09ae\u09be\u0987\u0995\u09c7\u09b2"
+    ],
+    "name:cat_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:ces_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u9081\u514b\u723e\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:cym_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:cze_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b9\u03c7\u03b1\u03ae\u03bb"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:eng_x_variant":[
+        "St Michael",
+        "St. Michael"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Mikaelo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u0645\u0627\u06cc\u06a9\u0644\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:fra_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:fre_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:gla_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b9\u03c7\u03b1\u03ae\u03bb"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0a82\u0a9f \u0aae\u0abe\u0a88\u0a95\u0ab2"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05d9\u05d9\u05e0\u05d8 \u05de\u05d9\u05d9\u05e7\u05dc"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092e\u093e\u0907\u0915\u0932"
+    ],
+    "name:ind_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:ita_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30de\u30a4\u30b1\u30eb"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0cae\u0cc8\u0c95\u0cc6\u0cb2\u0ccd"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ub9c8\uc774\ud074 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentmi\u0161elas pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Mykolo parapija"
+    ],
+    "name:ltz_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u092e\u093e\u092f\u0915\u0947\u0932"
+    ],
+    "name:may_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Michael prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Michael prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646\u062a \u0645\u0627\u06cc\u06a9\u0644\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:por_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:ron_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:rum_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d-\u041c\u0438\u0448\u0435\u043b\u044c"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0db8\u0dba\u0dd2\u0d9a\u0dbd\u0dca"
+    ],
+    "name:slv_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Michael"
+    ],
+    "name:sqi_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:swe_x_preferred":[
+        "St. Michael"
+    ],
+    "name:szl_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0bae\u0bc8\u0b95\u0bc7\u0bb2\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c2e\u0c48\u0c15\u0c47\u0c32\u0c4d"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c\u0e44\u0e21\u0e40\u0e04\u0e34\u0e25"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u041c\u0430\u0439\u043a\u043b"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0626\u06cc\u06a9\u0644\u060c \u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:wel_x_preferred":[
+        "Saint Michael"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u9081\u514b\u723e\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BRB",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BRB-1996",
+    "ne:adm1_code":"BRB-1996",
+    "ne:admin":"Barbados",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BB.MI",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1996",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BB08",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Barbados",
+    "ne:gn_a1_code":"BB.08",
+    "ne:gn_id":"3373557",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Michael",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BB08",
+    "ne:gns_id":"-1393764",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Michael",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BRB",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BB-",
+    "ne:iso_a2":"BB",
+    "ne:labelrank":"10",
+    "ne:latitude":"13.11800000000",
+    "ne:longitude":"-59.60470000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":5,
+    "ne:name":"Saint Michael",
+    "ne:name_alt":"",
+    "ne:name_len":13,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"MI",
+    "ne:provnum_ne":"3",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"BRB",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344737,
+    "ne:woe_label":"Saint Michael, BB, Barbados",
+    "ne:woe_name":"Saint Michael",
+    "qs:a0":"Barbados",
+    "qs:a0_lc":"BB",
+    "qs:a1":"Saint Michael",
+    "qs:a1_lc":"BRB-1996",
+    "qs:adm0":"Barbados",
+    "qs:adm0_a3":"BRB",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-01",
+    "statoids:area_km":"39",
+    "statoids:area_mi":"15",
+    "statoids:as_of_date":"2010-05-01",
+    "statoids:capital":"",
+    "statoids:country":"BB",
+    "statoids:gec":"BB08",
+    "statoids:hasc":"BB.MI",
+    "statoids:iso":"08",
+    "statoids:name":"Saint Michael",
+    "statoids:population":"88529",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"BB-08",
+    "wd:wordcount":1455,
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BB08",
+        "gn:id":3373557,
+        "gp:id":2344737,
+        "hasc:id":"BB.MI",
+        "iso:id":"BB-08",
+        "qs:id":1083799,
+        "unlc:id":"BB-08",
+        "wd:id":"Q819170",
+        "wk:page":"Saint Michael, Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"2479aeea34fcccce6a46855a2584602d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "region_id":85669465
+        }
+    ],
+    "wof:id":85669465,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814712,
+    "wof:name":"Saint Michael",
+    "wof:parent_id":85632491,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":88529,
+    "wof:population_rank":8,
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:shortcode":"MI",
+    "wof:subdivision":"BB-08",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.64060716428918,
+    13.08413271075602,
+    -59.56883907696181,
+    13.16131582296691
+],
+  "geometry": {"coordinates":[[[-59.57046688493875,13.1081924497218],[-59.56896826817098,13.10157786682515],[-59.56883907696181,13.10023427968832],[-59.56927832743281,13.10018260284488],[-59.6002427490036,13.08413271075602],[-59.60024980418507,13.08413320538318],[-59.60814368348417,13.08466217761747],[-59.62157141778664,13.0939802107182],[-59.63312740750382,13.11591217710532],[-59.64060716428918,13.14162089948496],[-59.64054012702519,13.14162710210911],[-59.63777543838575,13.14183380858344],[-59.6326594713575,13.1371312518059],[-59.63141923700812,13.13640778229336],[-59.63136756016473,13.13661448786837],[-59.62932634103777,13.13780304627363],[-59.62439124206213,13.13992177976638],[-59.6225825669319,13.14126536690321],[-59.62170406778847,13.14219554289002],[-59.61108456100362,13.15025706571106],[-59.59506486724979,13.15346100482157],[-59.59364376484785,13.15408112244592],[-59.58710669631694,13.16131582296691],[-59.57046688493875,13.1081924497218]]],"type":"Polygon"}
+}

@@ -1,0 +1,326 @@
+{
+  "id": 85669439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.003004,
+    "geom:area_square_m":36156379.606507,
+    "geom:bbox":"-59.6060461092,13.2098399931,-59.5458096247,13.2896718552",
+    "geom:latitude":13.253025,
+    "geom:longitude":-59.581887,
+    "gn:population":6436,
+    "iso:country":"BB",
+    "label:eng_x_preferred_longname":[
+        "Saint Andrew Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":13.257739,
+    "lbl:longitude":-59.581314,
+    "mps:latitude":13.257739,
+    "mps:longitude":-59.581314,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0623\u0646\u062f\u0631\u0648"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u0985\u09cd\u09af\u09be\u09a8\u09cd\u09a1\u09cd\u09b0\u09c1"
+    ],
+    "name:cat_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u5b89\u5fb7\u9b6f\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:ell_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:eng_x_variant":[
+        "St Andrew",
+        "St. Andrew"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Andreo"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u0622\u0646\u062f\u0631\u0648\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:fra_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:fre_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:gre_x_preferred":[
+        "\u0386\u03b3\u03b9\u03bf\u03c2 \u0391\u03bd\u03b4\u03c1\u03ad\u03b1\u03c2"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a8f\u0aa8\u0acd\u0aa1\u0acd\u0ab0\u0ac1"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e1\u05e0\u05d8 \u05d0\u05e0\u05d3\u05e8\u05d5"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u090f\u0902\u0921\u094d\u0930\u0942"
+    ],
+    "name:ind_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:ita_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30a2\u30f3\u30c9\u30ea\u30e5\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0c86\u0c82\u0ca1\u0ccd\u0cb0\u0ccd\u0caf\u0cc2"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\uc564\ub4dc\ub8e8 \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentendr\u016b pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Andriaus parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u090d\u0928\u094d\u0921\u094d\u0930\u094d\u092f\u0942"
+    ],
+    "name:may_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Andrew prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Andrew prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646\u062a \u0622\u0646\u062f\u0631\u0648\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:por_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:ron_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:rum_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u042d\u043d\u0434\u0440\u044e"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0d87\u0db1\u0dca\u0da9\u0dca\u0dbb\u0dd6"
+    ],
+    "name:spa_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0b85\u0ba9\u0bcd\u0bb1\u0bc6\u0bb5\u0bcd"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c06\u0c02\u0c21\u0c4d\u0c2f\u0c4d\u0c30\u0c42"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19 \u0e41\u0e2d\u0e19\u0e14\u0e23\u0e34\u0e27"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u0430\u0440\u0430\u0444\u0456\u044f \u0421\u0435\u043d\u0442-\u0410\u043d\u0434\u0440\u044e"
+    ],
+    "name:unk_x_variant":[
+        "Saint Andrews"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0627\u06cc\u0646\u0688\u0631\u06cc\u0648\u060c \u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Saint Andrew"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u5b89\u5fb7\u9b6f\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BRB",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BRB-1990",
+    "ne:adm1_code":"BRB-1990",
+    "ne:admin":"Barbados",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BB.AN",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1990",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BB02",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Barbados",
+    "ne:gn_a1_code":"BB.02",
+    "ne:gn_id":"3373580",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Andrew",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BB02",
+    "ne:gns_id":"-1393741",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Andrew",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BRB",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BB-",
+    "ne:iso_a2":"BB",
+    "ne:labelrank":"10",
+    "ne:latitude":"13.25510000000",
+    "ne:longitude":"-59.57590000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":5,
+    "ne:name":"Saint Andrew",
+    "ne:name_alt":"",
+    "ne:name_len":12,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"AN",
+    "ne:provnum_ne":"11",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"BRB",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344731,
+    "ne:woe_label":"Saint Andrew, BB, Barbados",
+    "ne:woe_name":"Saint Andrew",
+    "qs:a0":"Barbados",
+    "qs:a0_lc":"BB",
+    "qs:a1":"Saint Andrew",
+    "qs:a1_lc":"BRB-1990",
+    "qs:adm0":"Barbados",
+    "qs:adm0_a3":"BRB",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-01",
+    "statoids:area_km":"36",
+    "statoids:area_mi":"14",
+    "statoids:as_of_date":"2010-05-01",
+    "statoids:capital":"",
+    "statoids:country":"BB",
+    "statoids:gec":"BB02",
+    "statoids:hasc":"BB.AN",
+    "statoids:iso":"02",
+    "statoids:name":"Saint Andrew",
+    "statoids:population":"5139",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"BB-02",
+    "wd:wordcount":921,
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BB02",
+        "gn:id":3373580,
+        "gp:id":2344731,
+        "hasc:id":"BB.AN",
+        "iso:id":"BB-02",
+        "qs:id":222804,
+        "unlc:id":"BB-02",
+        "wd:id":"Q1647439",
+        "wk:page":"Saint Andrew, Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"4d4da6355be988b834e2a82337d48b13",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "region_id":85669439
+        }
+    ],
+    "wof:id":85669439,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814712,
+    "wof:name":"Saint Andrew",
+    "wof:parent_id":85632491,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":5139,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:shortcode":"AN",
+    "wof:subdivision":"BB-02",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.60604610924048,
+    13.20983999312125,
+    -59.54580962471437,
+    13.289671855172
+],
+  "geometry": {"coordinates":[[[-59.54580962471437,13.24379818044173],[-59.54584306510532,13.24379140944603],[-59.54816850417308,13.24327464370987],[-59.56080339166317,13.23743520806846],[-59.56382646272101,13.23666006081322],[-59.56506669796971,13.23722850249345],[-59.56535091791051,13.23748688401253],[-59.56568681469469,13.23800364795005],[-59.56594519711314,13.23821035442438],[-59.56620357863221,13.23836538315595],[-59.56656531383811,13.23841705999939],[-59.56697872588745,13.23836538315595],[-59.56754716666836,13.23821035442438],[-59.57067359141308,13.23330109297109],[-59.58098303893604,13.20983999312125],[-59.58555640270578,13.21573110650542],[-59.58912207702218,13.21702301679886],[-59.60103349499974,13.21635122323039],[-59.60604610924048,13.24208608620398],[-59.60545183003791,13.27583079695376],[-59.60413408132274,13.27841461843991],[-59.60317806691421,13.28275543911229],[-59.60258378771158,13.28296214378793],[-59.6022478909274,13.28316885026226],[-59.60196367008729,13.28327220304976],[-59.60170528766884,13.28316885026226],[-59.6013952302057,13.28306549747475],[-59.60108517094386,13.28275543911229],[-59.60046505421883,13.28244537985046],[-59.59976742222869,13.28218699833138],[-59.59894059902939,13.28192861591293],[-59.59844967261427,13.28192861591293],[-59.59793290867674,13.28208364554388],[-59.5975194966274,13.28218699833138],[-59.59705440863399,13.28223867427545],[-59.59627926317739,13.28213532238726],[-59.5959950432366,13.28213532238726],[-59.5956591455531,13.28218699833138],[-59.59540076403397,13.28223867427545],[-59.59503902882807,13.28213532238726],[-59.59447058804716,13.28172191033792],[-59.59297197127938,13.28187693906955],[-59.59059485536824,13.28280711505636],[-59.58633154996102,13.28683787736622],[-59.58405778683738,13.28812978855893],[-59.58261084691304,13.28854319880963],[-59.5821199195986,13.28828481729056],[-59.58160315566107,13.28812978855893],[-59.58124142135449,13.28807811081623],[-59.58090552367094,13.2878197292971],[-59.58044043567753,13.28776805335303],[-59.57984615737422,13.2878197292971],[-59.57819251187487,13.28926666922143],[-59.57798580629986,13.28926666922143],[-59.57788245261304,13.28916331643393],[-59.57648718863283,13.28885325807147],[-59.57067359141308,13.28905996274716],[-59.56896522396585,13.289671855172],[-59.56895911397191,13.28965892112234],[-59.54979407463679,13.2491722681857],[-59.54580962471437,13.24379818044173]]],"type":"Polygon"}
+}

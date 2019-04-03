@@ -1,0 +1,69 @@
+{
+  "id": 1326734459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.56761,13.07388,-59.56761,13.07388",
+    "geom:latitude":13.07388,
+    "geom:longitude":-59.56761,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Graeme Hall",
+    "gn:cc2":"BB",
+    "gn:country_code":"BB",
+    "gn:dem":25,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373843,
+    "gn:latitude":13.07388,
+    "gn:longitude":-59.56761,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Graeme Hall",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Groeme Hall",
+        "Graeme Hall"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373843
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"5338272477632892a788fc3a45ab72cd",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1326734459,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1326734459,
+    "wof:lastmodified":1537585685,
+    "wof:name":"Graeme Hall",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.56761,
+    13.07388,
+    -59.56761,
+    13.07388
+],
+  "geometry": {"coordinates":[-59.56761,13.07388],"type":"Point"}
+}

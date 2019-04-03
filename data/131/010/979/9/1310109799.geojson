@@ -1,0 +1,66 @@
+{
+  "id": 1310109799,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.54779,13.08631,-59.54779,13.08631",
+    "geom:latitude":13.08631,
+    "geom:longitude":-59.54779,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Bannatyne",
+    "gn:country_code":"BB",
+    "gn:dem":90,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374086,
+    "gn:latitude":13.08631,
+    "gn:longitude":-59.54779,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Bannatyne",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374086,
+        "wk:page":"Bannatyne,_Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"2bfdfdd118c67e101d2f542063af4159",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1310109799,
+            "region_id":85669435
+        }
+    ],
+    "wof:id":1310109799,
+    "wof:lastmodified":1537486874,
+    "wof:name":"Bannatyne",
+    "wof:parent_id":85669435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.54779,
+    13.08631,
+    -59.54779,
+    13.08631
+],
+  "geometry": {"coordinates":[-59.54779,13.08631],"type":"Point"}
+}

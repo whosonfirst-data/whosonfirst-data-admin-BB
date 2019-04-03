@@ -1,0 +1,64 @@
+{
+  "id": 1259487357,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.59525,13.07844,-59.59525,13.07844",
+    "geom:latitude":13.07844,
+    "geom:longitude":-59.59525,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Navy Gardens",
+    "gn:country_code":"BB",
+    "gn:dem":20,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373665,
+    "gn:latitude":13.07844,
+    "gn:longitude":-59.59525,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Navy Gardens",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373665
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"fefb5eff0b7844106a4d2da62e562d78",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1259487357,
+            "region_id":-1
+        }
+    ],
+    "wof:id":1259487357,
+    "wof:lastmodified":1536852094,
+    "wof:name":"Navy Gardens",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.59525,
+    13.07844,
+    -59.59525,
+    13.07844
+],
+  "geometry": {"coordinates":[-59.59525,13.07844],"type":"Point"}
+}

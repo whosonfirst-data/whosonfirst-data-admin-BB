@@ -1,0 +1,70 @@
+{
+  "id": 1276211121,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.64176,13.25725,-59.64176,13.25725",
+    "geom:latitude":13.25725,
+    "geom:longitude":-59.64176,
+    "gn:admin1_code":"09",
+    "gn:asciiname":"Heywoods",
+    "gn:cc2":"BB",
+    "gn:country_code":"BB",
+    "gn:dem":8,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373799,
+    "gn:latitude":13.25725,
+    "gn:longitude":-59.64176,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Heywoods",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Heywoods Village",
+        "Heywoods"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669469
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373799
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"6270ddceb321c7d31a5a98b130a948a8",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1276211121,
+            "region_id":85669469
+        }
+    ],
+    "wof:id":1276211121,
+    "wof:lastmodified":1537585685,
+    "wof:name":"Heywoods",
+    "wof:parent_id":85669469,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.64176,
+    13.25725,
+    -59.64176,
+    13.25725
+],
+  "geometry": {"coordinates":[-59.64176,13.25725],"type":"Point"}
+}

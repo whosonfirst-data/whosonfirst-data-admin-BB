@@ -1,0 +1,65 @@
+{
+  "id": 1276555479,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.56519,13.11077,-59.56519,13.11077",
+    "geom:latitude":13.11077,
+    "geom:longitude":-59.56519,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Dash Valley",
+    "gn:country_code":"BB",
+    "gn:dem":70,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373934,
+    "gn:latitude":13.11077,
+    "gn:longitude":-59.56519,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Dash Valley",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373934
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"b65dc00e84670f745087a14499a395f0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1276555479,
+            "region_id":85669445
+        }
+    ],
+    "wof:id":1276555479,
+    "wof:lastmodified":1536977771,
+    "wof:name":"Dash Valley",
+    "wof:parent_id":85669445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.56519,
+    13.11077,
+    -59.56519,
+    13.11077
+],
+  "geometry": {"coordinates":[-59.56519,13.11077],"type":"Point"}
+}

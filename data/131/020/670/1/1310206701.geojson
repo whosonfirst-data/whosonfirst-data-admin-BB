@@ -1,0 +1,65 @@
+{
+  "id": 1310206701,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.5361,13.14565,-59.5361,13.14565",
+    "geom:latitude":13.14565,
+    "geom:longitude":-59.5361,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Drax Hall Hope",
+    "gn:country_code":"BB",
+    "gn:dem":189,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373926,
+    "gn:latitude":13.14565,
+    "gn:longitude":-59.5361,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Drax Hall Hope",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373926
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"ae3229a8014581eaa00534171eb9b548",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1310206701,
+            "region_id":85669445
+        }
+    ],
+    "wof:id":1310206701,
+    "wof:lastmodified":1536849417,
+    "wof:name":"Drax Hall Hope",
+    "wof:parent_id":85669445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.5361,
+    13.14565,
+    -59.5361,
+    13.14565
+],
+  "geometry": {"coordinates":[-59.5361,13.14565],"type":"Point"}
+}

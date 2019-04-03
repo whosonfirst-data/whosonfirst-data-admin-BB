@@ -1,0 +1,65 @@
+{
+  "id": 1259894111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.56723,13.09313,-59.56723,13.09313",
+    "geom:latitude":13.09313,
+    "geom:longitude":-59.56723,
+    "gn:admin1_code":"01",
+    "gn:asciiname":"Kent",
+    "gn:country_code":"BB",
+    "gn:dem":111,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373752,
+    "gn:latitude":13.09313,
+    "gn:longitude":-59.56723,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Kent",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373752
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"819320fb366c533fd7072677fc008e8d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1259894111,
+            "region_id":85669435
+        }
+    ],
+    "wof:id":1259894111,
+    "wof:lastmodified":1536764091,
+    "wof:name":"Kent",
+    "wof:parent_id":85669435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.56723,
+    13.09313,
+    -59.56723,
+    13.09313
+],
+  "geometry": {"coordinates":[-59.56723,13.09313],"type":"Point"}
+}

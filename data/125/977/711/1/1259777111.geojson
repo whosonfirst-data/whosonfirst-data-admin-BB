@@ -1,0 +1,70 @@
+{
+  "id": 1259777111,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.4487,13.15513,-59.4487,13.15513",
+    "geom:latitude":13.15513,
+    "geom:longitude":-59.4487,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Golden Grove",
+    "gn:cc2":"BB",
+    "gn:country_code":"BB",
+    "gn:dem":43,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373848,
+    "gn:latitude":13.15513,
+    "gn:longitude":-59.4487,
+    "gn:modification_date":"2016-10-29",
+    "gn:name":"Golden Grove",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Lewis Vale",
+        "Golden Grove"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373848
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"0c0513a2807ad3e03cd015ed1fb30fad",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1259777111,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":1259777111,
+    "wof:lastmodified":1537585685,
+    "wof:name":"Golden Grove",
+    "wof:parent_id":85669473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.4487,
+    13.15513,
+    -59.4487,
+    13.15513
+],
+  "geometry": {"coordinates":[-59.4487,13.15513],"type":"Point"}
+}

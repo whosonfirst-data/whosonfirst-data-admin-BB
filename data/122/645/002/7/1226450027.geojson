@@ -1,0 +1,65 @@
+{
+  "id": 1226450027,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.55903,13.15932,-59.55903,13.15932",
+    "geom:latitude":13.15932,
+    "geom:longitude":-59.55903,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Market Hill",
+    "gn:country_code":"BB",
+    "gn:dem":215,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373704,
+    "gn:latitude":13.15932,
+    "gn:longitude":-59.55903,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Market Hill",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669445
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373704
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"f4227b1fc006d7f97105bba8d8e7ecb0",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1226450027,
+            "region_id":85669445
+        }
+    ],
+    "wof:id":1226450027,
+    "wof:lastmodified":1536638170,
+    "wof:name":"Market Hill",
+    "wof:parent_id":85669445,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.55903000000001,
+    13.15932,
+    -59.55903000000001,
+    13.15932
+],
+  "geometry": {"coordinates":[-59.55903000000001,13.15932],"type":"Point"}
+}

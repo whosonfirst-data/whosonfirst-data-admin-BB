@@ -1,0 +1,61 @@
+{
+  "id": 1209195687,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.57388,13.19884,-59.57388,13.19884",
+    "geom:latitude":13.19884,
+    "geom:longitude":-59.57388,
+    "gn:admin1_code":"11",
+    "gn:asciiname":"Chapman",
+    "gn:country_code":"BB",
+    "gn:dem":256,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373997,
+    "gn:latitude":13.19884,
+    "gn:longitude":-59.57388,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Chapman",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373997
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"972e0460dd000131eeda39bb01522db7",
+    "wof:hierarchy":[
+        {
+            "country_id":85632491,
+            "locality_id":1209195687
+        }
+    ],
+    "wof:id":1209195687,
+    "wof:lastmodified":1536294780,
+    "wof:name":"Chapman",
+    "wof:parent_id":85632491,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.57388,
+    13.19884,
+    -59.57388,
+    13.19884
+],
+  "geometry": {"coordinates":[-59.57388,13.19884],"type":"Point"}
+}

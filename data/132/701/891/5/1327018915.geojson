@@ -1,0 +1,65 @@
+{
+  "id": 1327018915,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.47944,13.14435,-59.47944,13.14435",
+    "geom:latitude":13.14435,
+    "geom:longitude":-59.47944,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Summervale",
+    "gn:country_code":"BB",
+    "gn:dem":113,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373490,
+    "gn:latitude":13.14435,
+    "gn:longitude":-59.47944,
+    "gn:modification_date":"2016-10-29",
+    "gn:name":"Summervale",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373490
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"fbefd3112874664dc8efd08eae151279",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1327018915,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":1327018915,
+    "wof:lastmodified":1536780454,
+    "wof:name":"Summervale",
+    "wof:parent_id":85669473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.47944,
+    13.14435,
+    -59.47944,
+    13.14435
+],
+  "geometry": {"coordinates":[-59.47944,13.14435],"type":"Point"}
+}

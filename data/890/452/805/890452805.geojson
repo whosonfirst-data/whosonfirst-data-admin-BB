@@ -1,0 +1,91 @@
+{
+  "id": 890452805,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.56667,13.25,-59.56667,13.25",
+    "geom:latitude":13.25,
+    "geom:longitude":-59.56667,
+    "gn:country":"BB",
+    "gn:fcode":"PPL",
+    "gn:pop":623,
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "name:dut_x_preferred":[
+        "Greenland"
+    ],
+    "name:eng_x_preferred":[
+        "Greenland"
+    ],
+    "name:fre_x_preferred":[
+        "Greenland"
+    ],
+    "name:gre_x_preferred":[
+        "\u0393\u03ba\u03c1\u03af\u03bd\u03bb\u03b1\u03bd\u03c4"
+    ],
+    "name:heb_x_preferred":[
+        "\u05d2\u05e8\u05d9\u05e0\u05dc\u05e0\u05d3"
+    ],
+    "name:pol_x_preferred":[
+        "Greenland"
+    ],
+    "name:por_x_preferred":[
+        "Greenland"
+    ],
+    "name:swe_x_preferred":[
+        "Greenland"
+    ],
+    "qs:name":"Greenland",
+    "qs:photos_9r":0,
+    "qs:photos_sr":0,
+    "qs:pop_sr":"2",
+    "src:population":"geonames",
+    "wd:wordcount":10288,
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669439
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373831,
+        "gp:id":56614,
+        "qs:id":582984,
+        "wd:id":"Q3556018",
+        "wk:page":"Greenland"
+    },
+    "wof:country":"BB",
+    "wof:created":1469052830,
+    "wof:geomhash":"274b7ae934ff7f0e6287afb8c98a7484",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":890452805,
+            "region_id":85669439
+        }
+    ],
+    "wof:id":890452805,
+    "wof:lastmodified":1553816403,
+    "wof:name":"Greenland",
+    "wof:parent_id":85669439,
+    "wof:placetype":"locality",
+    "wof:population":623,
+    "wof:population_rank":2,
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.56667,
+    13.25,
+    -59.56667,
+    13.25
+],
+  "geometry": {"coordinates":[-59.56667,13.25],"type":"Point"}
+}

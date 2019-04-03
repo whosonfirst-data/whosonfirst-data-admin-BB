@@ -1,0 +1,323 @@
+{
+  "id": 85669459,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.00315,
+    "geom:area_square_m":37899677.0322,
+    "geom:bbox":"-59.6542048821,13.2738608824,-59.575919059,13.3445498723",
+    "geom:latitude":13.311532,
+    "geom:longitude":-59.619887,
+    "gn:population":9706,
+    "iso:country":"BB",
+    "label:eng_x_preferred_longname":[
+        "Saint Lucy Parish"
+    ],
+    "label:eng_x_preferred_placetype":[
+        "parish"
+    ],
+    "lbl:latitude":13.316983,
+    "lbl:longitude":-59.617215,
+    "mps:latitude":13.316983,
+    "mps:longitude":-59.617215,
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:max_zoom":11.0,
+    "mz:min_zoom":11.0,
+    "name:ara_x_preferred":[
+        "\u0633\u0627\u0646\u062a \u0644\u0648\u0633\u064a"
+    ],
+    "name:ben_x_preferred":[
+        "\u09b8\u09c7\u09a8\u09cd\u099f \u09b2\u09c1\u09b8\u09bf"
+    ],
+    "name:cat_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:ceb_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:chi_x_preferred":[
+        "\u8056\u9732\u897f\u6559\u5340"
+    ],
+    "name:cor_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:dan_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:deu_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:dut_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:ell_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039b\u03bf\u03c5\u03ba\u03af\u03b1"
+    ],
+    "name:eng_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:eng_x_variant":[
+        "St Lucy",
+        "St. Lucy"
+    ],
+    "name:epo_x_preferred":[
+        "Sankta Lucio"
+    ],
+    "name:fas_x_preferred":[
+        "\u0633\u0646\u062a \u0644\u0648\u0633\u06cc\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:fin_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:fra_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:fre_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:ger_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:gre_x_preferred":[
+        "\u0391\u03b3\u03af\u03b1 \u039b\u03bf\u03c5\u03ba\u03af\u03b1"
+    ],
+    "name:guj_x_preferred":[
+        "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0acd\u0aaf\u0ac1\u0ab8\u0ac0"
+    ],
+    "name:hin_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0932\u0941\u0938\u0940"
+    ],
+    "name:ind_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:ita_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:jpn_x_preferred":[
+        "\u30bb\u30f3\u30c8\u30fb\u30eb\u30fc\u30b7\u30fc"
+    ],
+    "name:kan_x_preferred":[
+        "\u0cb8\u0cc7\u0c82\u0c9f\u0ccd \u0cb2\u0cc2\u0cb8\u0cbf"
+    ],
+    "name:kor_x_preferred":[
+        "\uc138\uc778\ud2b8\ub8e8\uc2dc \uad50\uad6c"
+    ],
+    "name:lav_x_preferred":[
+        "Sentl\u016bsijas pagasts"
+    ],
+    "name:lit_x_preferred":[
+        "\u0160v. Liucijos parapija"
+    ],
+    "name:mar_x_preferred":[
+        "\u0938\u0947\u0902\u091f \u0932\u0941\u0938\u0940"
+    ],
+    "name:may_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:nld_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:nob_x_preferred":[
+        "Saint Lucy prestegjeld"
+    ],
+    "name:nor_x_preferred":[
+        "Saint Lucy prestegjeld"
+    ],
+    "name:per_x_preferred":[
+        "\u0633\u0646\u062a \u0644\u0648\u0633\u06cc\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
+    ],
+    "name:pol_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:por_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:ron_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:rum_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:rus_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0438"
+    ],
+    "name:sin_x_preferred":[
+        "\u0dc1\u0dcf\u0db1\u0dca\u0dad \u0dbd\u0dd4\u0dc3\u0dd3"
+    ],
+    "name:spa_x_preferred":[
+        "Parroquia de Saint Lucy"
+    ],
+    "name:swe_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:tam_x_preferred":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd  \u0bb2\u0bc2\u0b9a\u0bbf"
+    ],
+    "name:tel_x_preferred":[
+        "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c32\u0c42\u0c38\u0c40"
+    ],
+    "name:tha_x_preferred":[
+        "\u0e40\u0e0b\u0e19\u0e15\u0e4c \u0e25\u0e39\u0e0b\u0e35\u0e48"
+    ],
+    "name:tur_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:ukr_x_preferred":[
+        "\u0421\u0435\u043d\u0442-\u041b\u044e\u0441\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u0633\u06cc\u0646\u0679 \u0644\u0648\u0633\u06cc\u060c \u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
+    ],
+    "name:vie_x_preferred":[
+        "Saint Lucy"
+    ],
+    "name:zho_x_preferred":[
+        "\u8056\u9732\u897f\u6559\u5340"
+    ],
+    "ne:abbrev":"",
+    "ne:adm0_a3":"BRB",
+    "ne:adm0_label":"6",
+    "ne:adm0_sr":"1",
+    "ne:adm1_cod_1":"BRB-1995",
+    "ne:adm1_code":"BRB-1995",
+    "ne:admin":"Barbados",
+    "ne:area_sqkm":"0.00000000000",
+    "ne:check_me":"0",
+    "ne:code_hasc":"BB.LU",
+    "ne:code_local":"",
+    "ne:datarank":"8",
+    "ne:diss_me":"1995",
+    "ne:featurecla":"Admin-1 scale rank",
+    "ne:fips":"BB07",
+    "ne:fips_alt":"",
+    "ne:gadm_level":"1",
+    "ne:geonunit":"Barbados",
+    "ne:gn_a1_code":"BB.07",
+    "ne:gn_id":"3373565",
+    "ne:gn_level":"1",
+    "ne:gn_name":"Saint Lucy",
+    "ne:gn_region":"",
+    "ne:gns_adm1":"BB07",
+    "ne:gns_id":"-1393756",
+    "ne:gns_lang":"fra",
+    "ne:gns_level":"1",
+    "ne:gns_name":"Saint Lucy",
+    "ne:gns_region":"",
+    "ne:gu_a3":"BRB",
+    "ne:hasc_maybe":"",
+    "ne:iso_3166_2":"BB-",
+    "ne:iso_a2":"BB",
+    "ne:labelrank":"10",
+    "ne:latitude":"13.31770000000",
+    "ne:longitude":"-59.61500000000",
+    "ne:mapcolor13":3,
+    "ne:mapcolor9":5,
+    "ne:name":"Saint Lucy",
+    "ne:name_alt":"",
+    "ne:name_len":10,
+    "ne:name_local":"",
+    "ne:note":"",
+    "ne:postal":"LU",
+    "ne:provnum_ne":"2",
+    "ne:region":"",
+    "ne:region_cod":"",
+    "ne:region_sub":"",
+    "ne:sameascity":"-99",
+    "ne:scalerank":"10",
+    "ne:sov_a3":"BRB",
+    "ne:sub_code":"",
+    "ne:type":"Parish",
+    "ne:type_en":"Parish",
+    "ne:wikipedia":"",
+    "ne:woe_id":2344736,
+    "ne:woe_label":"Saint Lucy, BB, Barbados",
+    "ne:woe_name":"Saint Lucy",
+    "qs:a0":"Barbados",
+    "qs:a0_lc":"BB",
+    "qs:a1":"Saint Lucy",
+    "qs:a1_lc":"BRB-1995",
+    "qs:adm0":"Barbados",
+    "qs:adm0_a3":"BRB",
+    "qs:level":"adm1",
+    "qs:scale":4000000,
+    "qs:source":"Natural Earth",
+    "qs:type":"Parish",
+    "src:geom":"quattroshapes",
+    "src:geom_alt":[],
+    "src:lbl:centroid":"mapshaper",
+    "src:population":"statoids",
+    "src:population:date":"2010-05-01",
+    "statoids:area_km":"36",
+    "statoids:area_mi":"14",
+    "statoids:as_of_date":"2010-05-01",
+    "statoids:capital":"",
+    "statoids:country":"BB",
+    "statoids:gec":"BB07",
+    "statoids:hasc":"BB.LU",
+    "statoids:iso":"07",
+    "statoids:name":"Saint Lucy",
+    "statoids:population":"9758",
+    "statoids:timezone":"-4",
+    "statoids:type":"parish",
+    "unlc:subdivision":"BB-07",
+    "wd:wordcount":657,
+    "wof:belongsto":[
+        102191575,
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "fips:code":"BB07",
+        "gn:id":3373565,
+        "gp:id":2344736,
+        "hasc:id":"BB.LU",
+        "iso:id":"BB-07",
+        "qs:id":1060665,
+        "unlc:id":"BB-07",
+        "wd:id":"Q1647447",
+        "wk:page":"Saint Lucy, Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"41c952286ecc84f0eed279317bb2d12c",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "region_id":85669459
+        }
+    ],
+    "wof:id":85669459,
+    "wof:lang":[
+        "eng"
+    ],
+    "wof:lang_x_official":[
+        "eng"
+    ],
+    "wof:lang_x_spoken":[
+        "eng"
+    ],
+    "wof:lastmodified":1553814712,
+    "wof:name":"Saint Lucy",
+    "wof:parent_id":85632491,
+    "wof:placetype":"region",
+    "wof:placetype_alt":[],
+    "wof:placetype_local":"parish",
+    "wof:population":9758,
+    "wof:population_rank":5,
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:shortcode":"LU",
+    "wof:subdivision":"BB-07",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.65420488214954,
+    13.27386088237387,
+    -59.57591905901734,
+    13.34454987227883
+],
+  "geometry": {"coordinates":[[[-59.57591905901734,13.30439282806663],[-59.57682308631632,13.30383942305099],[-59.63048906102131,13.28678620052278],[-59.64898922437317,13.27469391539194],[-59.65289079367517,13.27386709219257],[-59.6529212510149,13.27386088237387],[-59.65420488214954,13.29511139557451],[-59.65221106718695,13.31061432539087],[-59.64513098890399,13.32371653928692],[-59.63093014161268,13.33795807550484],[-59.61286373567282,13.34454987227883],[-59.59447180932648,13.33478424749507],[-59.58071855371821,13.31452057566406],[-59.57591905901734,13.30439282806663]]],"type":"Polygon"}
+}

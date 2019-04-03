@@ -1,0 +1,70 @@
+{
+  "id": 1243559299,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.52371,13.17669,-59.52371,13.17669",
+    "geom:latitude":13.17669,
+    "geom:longitude":-59.52371,
+    "gn:admin1_code":"05",
+    "gn:asciiname":"Wakefield",
+    "gn:cc2":"BB",
+    "gn:country_code":"BB",
+    "gn:dem":220,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373445,
+    "gn:latitude":13.17669,
+    "gn:longitude":-59.52371,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Wakefield",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "name:und_x_variant":[
+        "Haynes Field",
+        "Wakefield"
+    ],
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669451
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373445
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"ab369e0eb18510beb0d30d906b2e5b06",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1243559299,
+            "region_id":85669451
+        }
+    ],
+    "wof:id":1243559299,
+    "wof:lastmodified":1537585684,
+    "wof:name":"Wakefield",
+    "wof:parent_id":85669451,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.52371,
+    13.17669,
+    -59.52371,
+    13.17669
+],
+  "geometry": {"coordinates":[-59.52371,13.17669],"type":"Point"}
+}

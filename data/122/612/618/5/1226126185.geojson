@@ -1,0 +1,65 @@
+{
+  "id": 1226126185,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.47779,13.13398,-59.47779,13.13398",
+    "geom:latitude":13.13398,
+    "geom:longitude":-59.47779,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Padmore",
+    "gn:country_code":"BB",
+    "gn:dem":76,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373640,
+    "gn:latitude":13.13398,
+    "gn:longitude":-59.47779,
+    "gn:modification_date":"2016-10-29",
+    "gn:name":"Padmore",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373640
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"204eca7bfd0a4bc85c0f0a99b973702d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1226126185,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":1226126185,
+    "wof:lastmodified":1536606163,
+    "wof:name":"Padmore",
+    "wof:parent_id":85669473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.47779,
+    13.13398,
+    -59.47779,
+    13.13398
+],
+  "geometry": {"coordinates":[-59.47779,13.13398],"type":"Point"}
+}

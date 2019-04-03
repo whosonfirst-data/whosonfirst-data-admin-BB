@@ -1,0 +1,66 @@
+{
+  "id": 1310188979,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.47226,13.11068,-59.47226,13.11068",
+    "geom:latitude":13.11068,
+    "geom:longitude":-59.47226,
+    "gn:admin1_code":"10",
+    "gn:asciiname":"Four Roads",
+    "gn:country_code":"BB",
+    "gn:dem":32,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373876,
+    "gn:latitude":13.11068,
+    "gn:longitude":-59.47226,
+    "gn:modification_date":"2018-03-08",
+    "gn:name":"Four Roads",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669473
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373876,
+        "wk:page":"Four_Roads,_Barbados"
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"1eb4f8b51b9020020209286b87742a0d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1310188979,
+            "region_id":85669473
+        }
+    ],
+    "wof:id":1310188979,
+    "wof:lastmodified":1537486872,
+    "wof:name":"Four Roads",
+    "wof:parent_id":85669473,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.47226,
+    13.11068,
+    -59.47226,
+    13.11068
+],
+  "geometry": {"coordinates":[-59.47226,13.11068],"type":"Point"}
+}

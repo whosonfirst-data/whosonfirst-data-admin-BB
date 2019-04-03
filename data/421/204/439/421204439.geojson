@@ -1,0 +1,126 @@
+{
+  "id": 421204439,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.55,13.06667,-59.55,13.06667",
+    "geom:latitude":13.06667,
+    "geom:longitude":-59.55,
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":1,
+    "mz:note":"quattroshapes points import (201603)",
+    "name:bar_x_preferred":[
+        "Maxwell"
+    ],
+    "name:cze_x_preferred":[
+        "Maxwell"
+    ],
+    "name:dan_x_preferred":[
+        "Maxwell"
+    ],
+    "name:dut_x_preferred":[
+        "Maxwell"
+    ],
+    "name:eng_x_preferred":[
+        "Maxwell"
+    ],
+    "name:fin_x_preferred":[
+        "Maxwell"
+    ],
+    "name:fre_x_preferred":[
+        "Maxwell"
+    ],
+    "name:ger_x_preferred":[
+        "Maxwell"
+    ],
+    "name:gsw_x_preferred":[
+        "Maxwell"
+    ],
+    "name:ita_x_preferred":[
+        "Maxwell"
+    ],
+    "name:nds_x_preferred":[
+        "Maxwell"
+    ],
+    "name:nno_x_preferred":[
+        "Maxwell"
+    ],
+    "name:nob_x_preferred":[
+        "Maxwell"
+    ],
+    "name:pol_x_preferred":[
+        "Maxwell"
+    ],
+    "name:por_x_preferred":[
+        "Maxwell"
+    ],
+    "name:spa_x_preferred":[
+        "Maxwell"
+    ],
+    "name:swe_x_preferred":[
+        "Maxwell"
+    ],
+    "name:tur_x_preferred":[
+        "Maxwell"
+    ],
+    "qs:gn_country":"BB",
+    "qs:gn_fcode":"PPL",
+    "qs:gn_id":3373700,
+    "qs:gn_pop":0,
+    "qs:name":"Maxwell",
+    "qs:name_adm0":"Barbados",
+    "qs:name_adm1":"Christ Church",
+    "qs:photos":1612,
+    "qs:photos_1k":327,
+    "qs:photos_9k":7,
+    "qs:photos_9r":8,
+    "qs:photos_all":1612,
+    "qs:photos_sr":13,
+    "qs:placetype":"Town",
+    "qs:pop_sr":"0",
+    "qs:qs_id":240919,
+    "qs:woe_adm0":23424754,
+    "qs:woe_id":56575,
+    "src:geom":"quattroshapes",
+    "wd:wordcount":488,
+    "wof:belongsto":[
+        85632491
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373700,
+        "gp:id":56575,
+        "qs:id":240919,
+        "wd:id":"Q14215130"
+    },
+    "wof:country":"BB",
+    "wof:created":1459010186,
+    "wof:geomhash":"0583d0c061676a66e5fc0ebd25559414",
+    "wof:hierarchy":[
+        {
+            "country_id":85632491,
+            "locality_id":421204439
+        }
+    ],
+    "wof:id":421204439,
+    "wof:lastmodified":1527716180,
+    "wof:name":"Maxwell",
+    "wof:parent_id":-1,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.55,
+    13.06667,
+    -59.55,
+    13.06667
+],
+  "geometry": {"coordinates":[-59.55,13.06667],"type":"Point"}
+}

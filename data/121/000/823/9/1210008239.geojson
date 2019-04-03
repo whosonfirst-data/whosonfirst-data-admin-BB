@@ -1,0 +1,65 @@
+{
+  "id": 1210008239,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.62987,13.31077,-59.62987,13.31077",
+    "geom:latitude":13.31077,
+    "geom:longitude":-59.62987,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Friendship",
+    "gn:country_code":"BB",
+    "gn:dem":49,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373869,
+    "gn:latitude":13.31077,
+    "gn:longitude":-59.62987,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Friendship",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373869
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"e1bdff144e3187286dd3a998a1267ac2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1210008239,
+            "region_id":85669459
+        }
+    ],
+    "wof:id":1210008239,
+    "wof:lastmodified":1536371336,
+    "wof:name":"Friendship",
+    "wof:parent_id":85669459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.62987,
+    13.31077,
+    -59.62987,
+    13.31077
+],
+  "geometry": {"coordinates":[-59.62987,13.31077],"type":"Point"}
+}

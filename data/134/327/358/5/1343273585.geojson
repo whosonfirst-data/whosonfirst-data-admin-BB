@@ -1,0 +1,65 @@
+{
+  "id": 1343273585,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.51635,13.12198,-59.51635,13.12198",
+    "geom:latitude":13.12198,
+    "geom:longitude":-59.51635,
+    "gn:admin1_code":"03",
+    "gn:asciiname":"Campaign Castle",
+    "gn:country_code":"BB",
+    "gn:dem":69,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3374019,
+    "gn:latitude":13.12198,
+    "gn:longitude":-59.51635,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Campaign Castle",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669435
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3374019
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"0c93bc88ee17a1705a5e19c90904ea94",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1343273585,
+            "region_id":85669435
+        }
+    ],
+    "wof:id":1343273585,
+    "wof:lastmodified":1537015192,
+    "wof:name":"Campaign Castle",
+    "wof:parent_id":85669435,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.51635,
+    13.12198,
+    -59.51635,
+    13.12198
+],
+  "geometry": {"coordinates":[-59.51635,13.12198],"type":"Point"}
+}

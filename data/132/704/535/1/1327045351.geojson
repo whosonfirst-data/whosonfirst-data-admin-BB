@@ -1,0 +1,64 @@
+{
+  "id": 1327045351,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.61295,13.21546,-59.61295,13.21546",
+    "geom:latitude":13.21546,
+    "geom:longitude":-59.61295,
+    "gn:asciiname":"Deanes",
+    "gn:country_code":"BB",
+    "gn:dem":193,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":11154435,
+    "gn:latitude":13.21546,
+    "gn:longitude":-59.61295,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Deanes",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669449
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":11154435
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"c5065ed59df466a4821b411e5544cf7d",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1327045351,
+            "region_id":85669449
+        }
+    ],
+    "wof:id":1327045351,
+    "wof:lastmodified":1536741491,
+    "wof:name":"Deanes",
+    "wof:parent_id":85669449,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.61295,
+    13.21546,
+    -59.61295,
+    13.21546
+],
+  "geometry": {"coordinates":[-59.61295,13.21546],"type":"Point"}
+}

@@ -1,0 +1,65 @@
+{
+  "id": 1293879235,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.54689,13.19675,-59.54689,13.19675",
+    "geom:latitude":13.19675,
+    "geom:longitude":-59.54689,
+    "gn:admin1_code":"06",
+    "gn:asciiname":"Surinam",
+    "gn:country_code":"BB",
+    "gn:dem":308,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373485,
+    "gn:latitude":13.19675,
+    "gn:longitude":-59.54689,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Surinam",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669457
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373485
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"03685c3b74a32b49cb330e6fb211ada2",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1293879235,
+            "region_id":85669457
+        }
+    ],
+    "wof:id":1293879235,
+    "wof:lastmodified":1536719876,
+    "wof:name":"Surinam",
+    "wof:parent_id":85669457,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.54689000000001,
+    13.19675,
+    -59.54689000000001,
+    13.19675
+],
+  "geometry": {"coordinates":[-59.54689000000001,13.19675],"type":"Point"}
+}

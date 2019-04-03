@@ -1,0 +1,65 @@
+{
+  "id": 1259379661,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:area_square_m":0.0,
+    "geom:bbox":"-59.58903,13.31095,-59.58903,13.31095",
+    "geom:latitude":13.31095,
+    "geom:longitude":-59.58903,
+    "gn:admin1_code":"07",
+    "gn:asciiname":"Rockfield",
+    "gn:country_code":"BB",
+    "gn:dem":16,
+    "gn:feature_class":"P",
+    "gn:feature_code":"PPL",
+    "gn:geonameid":3373595,
+    "gn:latitude":13.31095,
+    "gn:longitude":-59.58903,
+    "gn:modification_date":"2016-10-28",
+    "gn:name":"Rockfield",
+    "gn:population":0,
+    "gn:timezone":"America/Barbados",
+    "iso:country":"BB",
+    "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "src:geom":"geonames",
+    "wof:belongsto":[
+        102191575,
+        85632491,
+        85669459
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gn:id":3373595
+    },
+    "wof:country":"BB",
+    "wof:geomhash":"e0c79e6250c0c9fba9a3908063489f73",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191575,
+            "country_id":85632491,
+            "locality_id":1259379661,
+            "region_id":85669459
+        }
+    ],
+    "wof:id":1259379661,
+    "wof:lastmodified":1537007098,
+    "wof:name":"Rockfield",
+    "wof:parent_id":85669459,
+    "wof:placetype":"locality",
+    "wof:repo":"whosonfirst-data-admin-bb",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    -59.58903000000001,
+    13.31095,
+    -59.58903000000001,
+    13.31095
+],
+  "geometry": {"coordinates":[-59.58903000000001,13.31095],"type":"Point"}
+}
