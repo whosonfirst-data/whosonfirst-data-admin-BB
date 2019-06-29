@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00315,
-    "geom:area_square_m":37899677.0322,
+    "geom:area_square_m":37899677.032193,
     "geom:bbox":"-59.6542048821,13.2738608824,-59.575919059,13.3445498723",
     "geom:latitude":13.311532,
     "geom:longitude":-59.619887,
@@ -37,9 +37,6 @@
     "name:ceb_x_preferred":[
         "Saint Lucy"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u9732\u897f\u6559\u5340"
-    ],
     "name:cor_x_preferred":[
         "Saint Lucy"
     ],
@@ -47,9 +44,6 @@
         "Saint Lucy"
     ],
     "name:deu_x_preferred":[
-        "Saint Lucy"
-    ],
-    "name:dut_x_preferred":[
         "Saint Lucy"
     ],
     "name:ell_x_preferred":[
@@ -73,15 +67,6 @@
     ],
     "name:fra_x_preferred":[
         "Saint Lucy"
-    ],
-    "name:fre_x_preferred":[
-        "Saint Lucy"
-    ],
-    "name:ger_x_preferred":[
-        "Saint Lucy"
-    ],
-    "name:gre_x_preferred":[
-        "\u0391\u03b3\u03af\u03b1 \u039b\u03bf\u03c5\u03ba\u03af\u03b1"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0ab2\u0acd\u0aaf\u0ac1\u0ab8\u0ac0"
@@ -113,7 +98,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u0932\u0941\u0938\u0940"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saint Lucy"
     ],
     "name:nld_x_preferred":[
@@ -125,9 +110,6 @@
     "name:nor_x_preferred":[
         "Saint Lucy prestegjeld"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u062a \u0644\u0648\u0633\u06cc\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
-    ],
     "name:pol_x_preferred":[
         "Saint Lucy"
     ],
@@ -135,9 +117,6 @@
         "Saint Lucy"
     ],
     "name:ron_x_preferred":[
-        "Saint Lucy"
-    ],
-    "name:rum_x_preferred":[
         "Saint Lucy"
     ],
     "name:rus_x_preferred":[
@@ -298,7 +277,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814712,
+    "wof:lastmodified":1561830556,
     "wof:name":"Saint Lucy",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

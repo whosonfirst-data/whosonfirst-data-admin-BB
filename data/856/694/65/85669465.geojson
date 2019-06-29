@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003344,
-    "geom:area_square_m":40264364.030594,
+    "geom:area_square_m":40264364.030598,
     "geom:bbox":"-59.6406071643,13.0841327108,-59.568839077,13.161315823",
     "geom:latitude":13.119707,
     "geom:longitude":-59.602571,
@@ -25,14 +25,8 @@
     "mz:is_current":1,
     "mz:max_zoom":11.0,
     "mz:min_zoom":11.0,
-    "name:alb_x_preferred":[
-        "Saint Michael"
-    ],
     "name:ara_x_preferred":[
         "\u0623\u0628\u0631\u0634\u064a\u0629 \u0633\u0627\u0646\u062a \u0645\u0627\u064a\u0643\u0644"
-    ],
-    "name:arm_x_preferred":[
-        "\u054d\u0565\u0576 \u0544\u056b\u0577\u0565\u056c"
     ],
     "name:ben_x_preferred":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u09ae\u09be\u0987\u0995\u09c7\u09b2"
@@ -46,25 +40,16 @@
     "name:ces_x_preferred":[
         "Saint Michael"
     ],
-    "name:chi_x_preferred":[
-        "\u8056\u9081\u514b\u723e\u5340"
-    ],
     "name:cor_x_preferred":[
         "Saint Michael"
     ],
     "name:cym_x_preferred":[
         "Saint Michael"
     ],
-    "name:cze_x_preferred":[
-        "Saint Michael"
-    ],
     "name:dan_x_preferred":[
         "Saint Michael"
     ],
     "name:deu_x_preferred":[
-        "Saint Michael"
-    ],
-    "name:dut_x_preferred":[
         "Saint Michael"
     ],
     "name:ell_x_preferred":[
@@ -89,17 +74,8 @@
     "name:fra_x_preferred":[
         "Saint Michael"
     ],
-    "name:fre_x_preferred":[
-        "Saint Michael"
-    ],
-    "name:ger_x_preferred":[
-        "Saint Michael"
-    ],
     "name:gla_x_preferred":[
         "Saint Michael"
-    ],
-    "name:gre_x_preferred":[
-        "\u0386\u03b3\u03b9\u03bf\u03c2 \u039c\u03b9\u03c7\u03b1\u03ae\u03bb"
     ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0a82\u0a9f \u0aae\u0abe\u0a88\u0a95\u0ab2"
@@ -109,6 +85,9 @@
     ],
     "name:hin_x_preferred":[
         "\u0938\u0947\u0902\u091f \u092e\u093e\u0907\u0915\u0932"
+    ],
+    "name:hye_x_preferred":[
+        "\u054d\u0565\u0576 \u0544\u056b\u0577\u0565\u056c"
     ],
     "name:ind_x_preferred":[
         "Saint Michael"
@@ -137,7 +116,7 @@
     "name:mar_x_preferred":[
         "\u0938\u0947\u0902\u091f \u092e\u093e\u092f\u0915\u0947\u0932"
     ],
-    "name:may_x_preferred":[
+    "name:msa_x_preferred":[
         "Saint Michael"
     ],
     "name:nld_x_preferred":[
@@ -149,9 +128,6 @@
     "name:nor_x_preferred":[
         "Saint Michael prestegjeld"
     ],
-    "name:per_x_preferred":[
-        "\u0633\u0646\u062a \u0645\u0627\u06cc\u06a9\u0644\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
-    ],
     "name:pol_x_preferred":[
         "Saint Michael"
     ],
@@ -159,9 +135,6 @@
         "Saint Michael"
     ],
     "name:ron_x_preferred":[
-        "Saint Michael"
-    ],
-    "name:rum_x_preferred":[
         "Saint Michael"
     ],
     "name:rus_x_preferred":[
@@ -204,9 +177,6 @@
         "\u0633\u06cc\u0646\u0679 \u0645\u0627\u0626\u06cc\u06a9\u0644\u060c \u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
     ],
     "name:vie_x_preferred":[
-        "Saint Michael"
-    ],
-    "name:wel_x_preferred":[
         "Saint Michael"
     ],
     "name:zho_x_preferred":[
@@ -334,7 +304,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814712,
+    "wof:lastmodified":1561830556,
     "wof:name":"Saint Michael",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004787,
-    "geom:area_square_m":57651672.327969,
+    "geom:area_square_m":57651672.327976,
     "geom:bbox":"-59.600242749,13.0511742215,-59.4757757864,13.1294314642",
     "geom:latitude":13.090966,
     "geom:longitude":-59.529484,
@@ -37,17 +37,14 @@
     "name:ceb_x_preferred":[
         "Christ Church"
     ],
-    "name:chi_x_preferred":[
-        "\u57fa\u7763\u57ce\u6559\u5340"
-    ],
     "name:cor_x_preferred":[
         "Christ Church"
     ],
     "name:dan_x_preferred":[
         "Christ Church"
     ],
-    "name:dut_x_preferred":[
-        "Christ Church"
+    "name:deu_x_preferred":[
+        "Christchurch"
     ],
     "name:ell_x_preferred":[
         "\u039a\u03c1\u03ac\u03b9\u03c3\u03c4 \u03a4\u03c3\u03b5\u03c1\u03c4\u03c2"
@@ -66,15 +63,6 @@
     ],
     "name:fra_x_preferred":[
         "Christ Church"
-    ],
-    "name:fre_x_preferred":[
-        "Christ Church"
-    ],
-    "name:ger_x_preferred":[
-        "Christchurch"
-    ],
-    "name:gre_x_preferred":[
-        "\u039a\u03c1\u03ac\u03b9\u03c3\u03c4 \u03a4\u03c3\u03b5\u03c1\u03c4\u03c2"
     ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab0\u0abf\u0ab8\u0acd\u0a9f \u0a9a\u0ab0\u0acd\u0a9a"
@@ -106,9 +94,6 @@
     "name:mar_x_preferred":[
         "\u0915\u094d\u0930\u093e\u0907\u0938\u094d\u091f \u091a\u0930\u094d\u091a"
     ],
-    "name:may_x_preferred":[
-        "Kariah Christ Church"
-    ],
     "name:msa_x_preferred":[
         "Kariah Christ Church"
     ],
@@ -121,9 +106,6 @@
     "name:nor_x_preferred":[
         "Christ Church prestegjeld"
     ],
-    "name:per_x_preferred":[
-        "\u06a9\u0631\u0627\u06cc\u0633\u062a \u0686\u0631\u0686\u060c \u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
-    ],
     "name:pol_x_preferred":[
         "Christ Church"
     ],
@@ -131,9 +113,6 @@
         "Christ Church"
     ],
     "name:ron_x_preferred":[
-        "Christ Church"
-    ],
-    "name:rum_x_preferred":[
         "Christ Church"
     ],
     "name:rus_x_preferred":[
@@ -297,7 +276,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1553814712,
+    "wof:lastmodified":1561830556,
     "wof:name":"Christ Church",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

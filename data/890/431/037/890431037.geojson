@@ -15,20 +15,17 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Oistins"
+    ],
+    "name:ell_x_preferred":[
+        "\u038c\u03b9\u03c3\u03c4\u03b9\u03bd\u03c2"
     ],
     "name:eng_x_preferred":[
         "Oistins"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Oistins"
-    ],
-    "name:ger_x_preferred":[
-        "Oistins"
-    ],
-    "name:gre_x_preferred":[
-        "\u038c\u03b9\u03c3\u03c4\u03b9\u03bd\u03c2"
     ],
     "name:heb_x_preferred":[
         "\u05d0\u05d5\u05d9\u05e1\u05d8\u05d9\u05e0\u05e1"
@@ -38,6 +35,9 @@
     ],
     "name:lit_x_preferred":[
         "Oistinsas"
+    ],
+    "name:nld_x_preferred":[
+        "Oistins"
     ],
     "name:pol_x_preferred":[
         "Oistins"
@@ -88,7 +88,7 @@
         }
     ],
     "wof:id":890431037,
-    "wof:lastmodified":1527735413,
+    "wof:lastmodified":1561830558,
     "wof:name":"Oistins",
     "wof:parent_id":85669435,
     "wof:placetype":"locality",

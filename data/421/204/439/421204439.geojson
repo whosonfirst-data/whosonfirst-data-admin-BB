@@ -16,13 +16,13 @@
     "name:bar_x_preferred":[
         "Maxwell"
     ],
-    "name:cze_x_preferred":[
+    "name:ces_x_preferred":[
         "Maxwell"
     ],
     "name:dan_x_preferred":[
         "Maxwell"
     ],
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Maxwell"
     ],
     "name:eng_x_preferred":[
@@ -31,10 +31,7 @@
     "name:fin_x_preferred":[
         "Maxwell"
     ],
-    "name:fre_x_preferred":[
-        "Maxwell"
-    ],
-    "name:ger_x_preferred":[
+    "name:fra_x_preferred":[
         "Maxwell"
     ],
     "name:gsw_x_preferred":[
@@ -44,6 +41,9 @@
         "Maxwell"
     ],
     "name:nds_x_preferred":[
+        "Maxwell"
+    ],
+    "name:nld_x_preferred":[
         "Maxwell"
     ],
     "name:nno_x_preferred":[
@@ -107,7 +107,7 @@
         }
     ],
     "wof:id":421204439,
-    "wof:lastmodified":1527716180,
+    "wof:lastmodified":1561830557,
     "wof:name":"Maxwell",
     "wof:parent_id":-1,
     "wof:placetype":"locality",
