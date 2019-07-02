@@ -15,20 +15,17 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
-    "name:dut_x_preferred":[
+    "name:deu_x_preferred":[
         "Bathsheba"
+    ],
+    "name:ell_x_preferred":[
+        "\u039c\u03c0\u03b1\u03b8\u03c3\u03ae\u03bc\u03c0\u03b1"
     ],
     "name:eng_x_preferred":[
         "Bathsheba"
     ],
-    "name:fre_x_preferred":[
+    "name:fra_x_preferred":[
         "Bathsheba"
-    ],
-    "name:ger_x_preferred":[
-        "Bathsheba"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03b1\u03b8\u03c3\u03ae\u03bc\u03c0\u03b1"
     ],
     "name:heb_x_preferred":[
         "\u05d1\u05ea \u05e9\u05d1\u05e2"
@@ -36,13 +33,16 @@
     "name:lit_x_preferred":[
         "Bat\u0161eba"
     ],
+    "name:nld_x_preferred":[
+        "Bathsheba"
+    ],
     "name:pol_x_preferred":[
         "Bathsheba"
     ],
     "name:por_x_preferred":[
         "Bathsheba"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bathsheba"
     ],
     "name:spa_x_preferred":[
@@ -81,7 +81,7 @@
         }
     ],
     "wof:id":890434761,
-    "wof:lastmodified":1553816396,
+    "wof:lastmodified":1561830558,
     "wof:name":"Bathsheba",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

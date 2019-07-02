@@ -21,9 +21,6 @@
     "name:afr_x_preferred":[
         "Bridgetown"
     ],
-    "name:alb_x_preferred":[
-        "Bridgetown"
-    ],
     "name:amh_x_preferred":[
         "\u1265\u122d\u1305\u1273\u12cd\u1295"
     ],
@@ -32,9 +29,6 @@
     ],
     "name:arg_x_preferred":[
         "Bridgetown"
-    ],
-    "name:arm_x_preferred":[
-        "\u0532\u0580\u056b\u057b\u0569\u0561\u0578\u0582\u0576"
     ],
     "name:ast_x_preferred":[
         "Bridgetown"
@@ -45,14 +39,14 @@
     "name:aze_x_preferred":[
         "Brictaun"
     ],
-    "name:baq_x_preferred":[
-        "Bridgetown"
-    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u044b\u0434\u0436\u0442\u0430\u045e\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09bf\u099c\u099f\u09be\u0989\u09a8"
+    ],
+    "name:bod_x_preferred":[
+        "\u0f54\u0f74\u0f0b\u0f62\u0f74\u0f60\u0f72\u0f0b\u0f40\u0fb2\u0f72\u0f0b\u0f50\u0f7c\u0f53\u0f0d"
     ],
     "name:bos_x_preferred":[
         "Bridgetown"
@@ -69,16 +63,16 @@
     "name:cdo_x_preferred":[
         "Bridgetown"
     ],
+    "name:ces_x_preferred":[
+        "Bridgetown"
+    ],
     "name:che_x_preferred":[
         "\u0411\u0440\u0438\u0434\u0436\u0442\u0430\u0443\u043d"
-    ],
-    "name:chi_x_preferred":[
-        "\u5e03\u91cc\u5947\u6566"
     ],
     "name:cor_x_preferred":[
         "Bridgetown"
     ],
-    "name:cze_x_preferred":[
+    "name:cym_x_preferred":[
         "Bridgetown"
     ],
     "name:dan_x_preferred":[
@@ -87,11 +81,11 @@
     "name:deu_x_preferred":[
         "Bridgetown"
     ],
-    "name:dut_x_preferred":[
-        "Bridgetown"
-    ],
     "name:ell_x_preferred":[
         "Bridgetown"
+    ],
+    "name:ell_x_variant":[
+        "\u039c\u03c0\u03c1\u03b9\u03c4\u03b6\u03c4\u03ac\u03bf\u03c5\u03bd"
     ],
     "name:eng_x_preferred":[
         "Bridgetown"
@@ -102,25 +96,22 @@
     "name:est_x_preferred":[
         "Bridgetown"
     ],
+    "name:eus_x_preferred":[
+        "Bridgetown"
+    ],
+    "name:fas_x_preferred":[
+        "\u0628\u0631\u06cc\u062c\u200c\u062a\u0627\u0648\u0646"
+    ],
     "name:fin_x_preferred":[
         "Bridgetown"
     ],
     "name:fra_x_preferred":[
         "Bridgetown"
     ],
-    "name:fre_x_preferred":[
-        "Bridgetown"
-    ],
     "name:frp_x_preferred":[
         "Bridgetown"
     ],
     "name:fry_x_preferred":[
-        "Bridgetown"
-    ],
-    "name:geo_x_preferred":[
-        "\u10d1\u10e0\u10d8\u10ef\u10e2\u10d0\u10e3\u10dc\u10d8"
-    ],
-    "name:ger_x_preferred":[
         "Bridgetown"
     ],
     "name:gla_x_preferred":[
@@ -131,9 +122,6 @@
     ],
     "name:glg_x_preferred":[
         "Bridgetown"
-    ],
-    "name:gre_x_preferred":[
-        "\u039c\u03c0\u03c1\u03b9\u03c4\u03b6\u03c4\u03ac\u03bf\u03c5\u03bd"
     ],
     "name:gsw_x_preferred":[
         "Bridgetown"
@@ -162,8 +150,8 @@
     "name:hun_x_preferred":[
         "Bridgetown"
     ],
-    "name:ice_x_preferred":[
-        "Bridgetown"
+    "name:hye_x_preferred":[
+        "\u0532\u0580\u056b\u057b\u0569\u0561\u0578\u0582\u0576"
     ],
     "name:ido_x_preferred":[
         "Bridgetown"
@@ -174,6 +162,9 @@
     "name:ind_x_preferred":[
         "Bridgetown"
     ],
+    "name:isl_x_preferred":[
+        "Bridgetown"
+    ],
     "name:ita_x_preferred":[
         "Bridgetown"
     ],
@@ -182,6 +173,9 @@
     ],
     "name:kan_x_preferred":[
         "\u0cac\u0ccd\u0cb0\u0cbf\u0ca1\u0ccd\u0c9c\u0ccd \u0c9f\u0ccc\u0ca8\u0ccd"
+    ],
+    "name:kat_x_preferred":[
+        "\u10d1\u10e0\u10d8\u10ef\u10e2\u10d0\u10e3\u10dc\u10d8"
     ],
     "name:kir_x_preferred":[
         "\u0411\u0440\u0438\u0434\u0436\u0442\u0430\u0443\u043d"
@@ -204,17 +198,11 @@
     "name:lmo_x_preferred":[
         "Bridgetown"
     ],
-    "name:mac_x_preferred":[
-        "\u0411\u0440\u0438\u045f\u0442\u0430\u0443\u043d"
-    ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d4d\u0d30\u0d3f\u0d21\u0d4d\u0d1c\u0d4d\u0d1f\u0d57\u0d7a"
     ],
     "name:mar_x_preferred":[
         "\u092c\u094d\u0930\u093f\u091c\u091f\u093e\u0909\u0928"
-    ],
-    "name:may_x_preferred":[
-        "Bridgetown"
     ],
     "name:mkd_x_preferred":[
         "\u0411\u0440\u0438\u045f\u0442\u0430\u0443\u043d"
@@ -224,6 +212,9 @@
     ],
     "name:mon_x_preferred":[
         "\u0411\u0440\u0438\u0436\u0442\u0430\u0443\u043d"
+    ],
+    "name:msa_x_preferred":[
+        "Bridgetown"
     ],
     "name:nah_x_preferred":[
         "Bridgetown"
@@ -261,9 +252,6 @@
     "name:pap_x_preferred":[
         "Bridgetown"
     ],
-    "name:per_x_preferred":[
-        "\u0628\u0631\u06cc\u062c\u200c\u062a\u0627\u0648\u0646"
-    ],
     "name:pms_x_preferred":[
         "Bridgetown"
     ],
@@ -273,7 +261,7 @@
     "name:por_x_preferred":[
         "Bridgetown"
     ],
-    "name:rum_x_preferred":[
+    "name:ron_x_preferred":[
         "Bridgetown"
     ],
     "name:rup_x_preferred":[
@@ -294,9 +282,6 @@
     "name:slk_x_preferred":[
         "Bridgetown"
     ],
-    "name:slo_x_preferred":[
-        "Bridgetown"
-    ],
     "name:slv_x_preferred":[
         "Bridgetown"
     ],
@@ -304,6 +289,9 @@
         "Bridgetown"
     ],
     "name:spa_x_preferred":[
+        "Bridgetown"
+    ],
+    "name:sqi_x_preferred":[
         "Bridgetown"
     ],
     "name:srp_x_preferred":[
@@ -329,9 +317,6 @@
     ],
     "name:tha_x_preferred":[
         "\u0e1a\u0e23\u0e34\u0e14\u0e08\u0e4c\u0e17\u0e32\u0e27\u0e19\u0e4c"
-    ],
-    "name:tib_x_preferred":[
-        "\u0f54\u0f74\u0f0b\u0f62\u0f74\u0f60\u0f72\u0f0b\u0f40\u0fb2\u0f72\u0f0b\u0f50\u0f7c\u0f53\u0f0d"
     ],
     "name:tuk_x_preferred":[
         "Bridjtaun"
@@ -366,9 +351,6 @@
     "name:war_x_preferred":[
         "Bridgetown"
     ],
-    "name:wel_x_preferred":[
-        "Bridgetown"
-    ],
     "name:xmf_x_preferred":[
         "\u10d1\u10e0\u10d8\u10ef\u10e2\u10d0\u10e3\u10dc\u10d8"
     ],
@@ -377,6 +359,9 @@
     ],
     "name:yue_x_preferred":[
         "\u6a4b\u93ae"
+    ],
+    "name:zho_x_preferred":[
+        "\u5e03\u91cc\u5947\u6566"
     ],
     "qs:name":"Bridgetown",
     "qs:photos_9r":0,
@@ -416,7 +401,7 @@
         }
     ],
     "wof:id":890452811,
-    "wof:lastmodified":1552519486,
+    "wof:lastmodified":1561830557,
     "wof:name":"Bridgetown",
     "wof:parent_id":85669465,
     "wof:placetype":"locality",
