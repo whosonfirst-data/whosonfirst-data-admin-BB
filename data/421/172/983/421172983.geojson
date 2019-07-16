@@ -22,6 +22,9 @@
     "name:ceb_x_preferred":[
         "Speightstown"
     ],
+    "name:dan_x_preferred":[
+        "Speightstown"
+    ],
     "name:deu_x_preferred":[
         "Speightstown"
     ],
@@ -30,6 +33,12 @@
     ],
     "name:eng_x_preferred":[
         "Speightstown"
+    ],
+    "name:est_x_preferred":[
+        "Speightstown"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0633\u067e\u0627\u06cc\u062a\u0633\u200c\u062a\u0627\u0648\u0646"
     ],
     "name:fra_x_preferred":[
         "Speightstown"
@@ -43,8 +52,14 @@
     "name:ilo_x_preferred":[
         "Speightstown"
     ],
+    "name:jpn_x_preferred":[
+        "\u30b9\u30d1\u30a4\u30c4\u30bf\u30a6\u30f3"
+    ],
     "name:lit_x_preferred":[
         "Spitstaunas"
+    ],
+    "name:ltz_x_preferred":[
+        "Speightstown"
     ],
     "name:msa_x_preferred":[
         "Speightstown"
@@ -119,7 +134,7 @@
         }
     ],
     "wof:id":421172983,
-    "wof:lastmodified":1561830557,
+    "wof:lastmodified":1563289205,
     "wof:name":"Speightstown",
     "wof:parent_id":85669469,
     "wof:placetype":"locality",
