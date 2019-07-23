@@ -15,6 +15,9 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "name:ceb_x_preferred":[
+        "Oistins"
+    ],
     "name:deu_x_preferred":[
         "Oistins"
     ],
@@ -23,6 +26,9 @@
     ],
     "name:eng_x_preferred":[
         "Oistins"
+    ],
+    "name:fas_x_preferred":[
+        "\u0627\u0648\u06cc\u0633\u062a\u06cc\u0646\u0632"
     ],
     "name:fra_x_preferred":[
         "Oistins"
@@ -88,7 +94,7 @@
         }
     ],
     "wof:id":890431037,
-    "wof:lastmodified":1561830558,
+    "wof:lastmodified":1563289213,
     "wof:name":"Oistins",
     "wof:parent_id":85669435,
     "wof:placetype":"locality",

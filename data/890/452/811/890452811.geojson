@@ -39,8 +39,14 @@
     "name:aze_x_preferred":[
         "Brictaun"
     ],
+    "name:bar_x_preferred":[
+        "Bridgetown"
+    ],
     "name:bel_x_preferred":[
         "\u0413\u043e\u0440\u0430\u0434 \u0411\u0440\u044b\u0434\u0436\u0442\u0430\u045e\u043d"
+    ],
+    "name:bel_x_variant":[
+        "\u0411\u0440\u044b\u0434\u0436\u0442\u0430\u045e\u043d"
     ],
     "name:ben_x_preferred":[
         "\u09ac\u09cd\u09b0\u09bf\u099c\u099f\u09be\u0989\u09a8"
@@ -63,6 +69,9 @@
     "name:cdo_x_preferred":[
         "Bridgetown"
     ],
+    "name:ceb_x_preferred":[
+        "Bridgetown"
+    ],
     "name:ces_x_preferred":[
         "Bridgetown"
     ],
@@ -79,6 +88,9 @@
         "Bridgetown"
     ],
     "name:deu_x_preferred":[
+        "Bridgetown"
+    ],
+    "name:diq_x_preferred":[
         "Bridgetown"
     ],
     "name:ell_x_preferred":[
@@ -192,6 +204,9 @@
     "name:lav_x_preferred":[
         "Brid\u017etauna"
     ],
+    "name:lij_x_preferred":[
+        "Bridgetown"
+    ],
     "name:lit_x_preferred":[
         "Brid\u017etaunas"
     ],
@@ -297,6 +312,9 @@
     "name:srp_x_preferred":[
         "\u0411\u0440\u0438\u045f\u0442\u0430\u0443\u043d"
     ],
+    "name:stq_x_preferred":[
+        "Bridgetown"
+    ],
     "name:swa_x_preferred":[
         "Bridgetown"
     ],
@@ -401,7 +419,7 @@
         }
     ],
     "wof:id":890452811,
-    "wof:lastmodified":1561830557,
+    "wof:lastmodified":1563289209,
     "wof:name":"Bridgetown",
     "wof:parent_id":85669465,
     "wof:placetype":"locality",
