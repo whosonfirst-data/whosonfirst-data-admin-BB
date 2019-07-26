@@ -25,6 +25,9 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:guj_x_preferred":[
+        "\u0ab9\u0acb\u0aaa\u0ab5\u0ac7\u0ab2\u0acd"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +50,7 @@
         }
     ],
     "wof:id":1343972095,
-    "wof:lastmodified":1537486872,
+    "wof:lastmodified":1564150838,
     "wof:name":"Hopewell",
     "wof:parent_id":85669435,
     "wof:placetype":"locality",

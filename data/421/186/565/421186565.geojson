@@ -16,6 +16,9 @@
     "name:deu_x_preferred":[
         "Fortescue"
     ],
+    "name:nld_x_preferred":[
+        "Fortescue"
+    ],
     "name:rus_x_preferred":[
         "\u0424\u043e\u0440\u0442\u0435\u0441\u043a\u044c\u044e"
     ],
@@ -67,7 +70,7 @@
         }
     ],
     "wof:id":421186565,
-    "wof:lastmodified":1527716315,
+    "wof:lastmodified":1564150916,
     "wof:name":"Fortescue",
     "wof:parent_id":85669473,
     "wof:placetype":"locality",

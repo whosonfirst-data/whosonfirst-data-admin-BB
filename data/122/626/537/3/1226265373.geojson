@@ -26,6 +26,12 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Codrington College"
+    ],
+    "name:pol_x_preferred":[
+        "Codrington College"
+    ],
     "name:und_x_variant":[
         "Codrington",
         "Codrington College"
@@ -52,7 +58,7 @@
         }
     ],
     "wof:id":1226265373,
-    "wof:lastmodified":1537585685,
+    "wof:lastmodified":1564150946,
     "wof:name":"Codrington College",
     "wof:parent_id":85669473,
     "wof:placetype":"locality",

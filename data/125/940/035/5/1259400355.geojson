@@ -25,6 +25,24 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:ceb_x_preferred":[
+        "Wotton"
+    ],
+    "name:deu_x_preferred":[
+        "Wotton"
+    ],
+    "name:fra_x_preferred":[
+        "Wotton"
+    ],
+    "name:pol_x_preferred":[
+        "Wotton"
+    ],
+    "name:rus_x_preferred":[
+        "\u0423\u043e\u0442\u0442\u043e\u043d"
+    ],
+    "name:swe_x_preferred":[
+        "Wotton"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +64,7 @@
         }
     ],
     "wof:id":1259400355,
-    "wof:lastmodified":1536977532,
+    "wof:lastmodified":1564150939,
     "wof:name":"Wotton",
     "wof:parent_id":85669435,
     "wof:placetype":"locality",

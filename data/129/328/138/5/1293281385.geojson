@@ -25,6 +25,15 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:bar_x_preferred":[
+        "Plumtree"
+    ],
+    "name:ceb_x_preferred":[
+        "Plumtree"
+    ],
+    "name:swe_x_preferred":[
+        "Plumtree"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +55,7 @@
         }
     ],
     "wof:id":1293281385,
-    "wof:lastmodified":1537081004,
+    "wof:lastmodified":1564150866,
     "wof:name":"Plumtree",
     "wof:parent_id":85669477,
     "wof:placetype":"locality",
