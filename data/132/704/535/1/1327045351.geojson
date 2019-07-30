@@ -24,6 +24,9 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:nld_x_preferred":[
+        "Deanes Restaurant"
+    ],
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -45,7 +48,7 @@
         }
     ],
     "wof:id":1327045351,
-    "wof:lastmodified":1536741491,
+    "wof:lastmodified":1564150832,
     "wof:name":"Deanes",
     "wof:parent_id":85669449,
     "wof:placetype":"locality",

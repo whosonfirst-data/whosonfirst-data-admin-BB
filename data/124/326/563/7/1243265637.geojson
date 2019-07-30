@@ -26,6 +26,18 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:deu_x_preferred":[
+        "Jordans"
+    ],
+    "name:fra_x_preferred":[
+        "Jordans"
+    ],
+    "name:ita_x_preferred":[
+        "Jordans"
+    ],
+    "name:nld_x_preferred":[
+        "Jordans"
+    ],
     "name:und_x_variant":[
         "Jordan",
         "Jordans"
@@ -51,7 +63,7 @@
         }
     ],
     "wof:id":1243265637,
-    "wof:lastmodified":1537585685,
+    "wof:lastmodified":1564150935,
     "wof:name":"Jordans",
     "wof:parent_id":85669445,
     "wof:placetype":"locality",

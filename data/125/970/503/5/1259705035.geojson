@@ -26,6 +26,9 @@
     "iso:country":"BB",
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "name:spa_x_preferred":[
+        "Cueva Animal Flower"
+    ],
     "name:und_x_variant":[
         "Cove",
         "Animal Flower Cave"
@@ -52,7 +55,7 @@
         }
     ],
     "wof:id":1259705035,
-    "wof:lastmodified":1537585685,
+    "wof:lastmodified":1564150937,
     "wof:name":"Animal Flower Cave",
     "wof:parent_id":85669459,
     "wof:placetype":"locality",
