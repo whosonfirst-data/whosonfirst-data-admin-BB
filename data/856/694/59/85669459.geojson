@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "LU"
+    ],
     "lbl:latitude":13.316983,
     "lbl:longitude":-59.617215,
     "mps:latitude":13.316983,
@@ -274,16 +277,13 @@
         }
     ],
     "wof:id":85669459,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563289140,
+    "wof:lastmodified":1565653223,
     "wof:name":"Saint Lucy",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

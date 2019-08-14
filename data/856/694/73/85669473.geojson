@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "PH"
+    ],
     "lbl:latitude":13.136257,
     "lbl:longitude":-59.468155,
     "mps:latitude":13.136257,
@@ -277,16 +280,13 @@
         }
     ],
     "wof:id":85669473,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563289144,
+    "wof:lastmodified":1565653224,
     "wof:name":"Saint Philip",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

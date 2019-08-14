@@ -16,6 +16,9 @@
         "1-246"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_shortcode":[
+        "BB"
+    ],
     "lbl:latitude":13.144115,
     "lbl:longitude":-59.555728,
     "mps:latitude":13.144115,
@@ -892,16 +895,13 @@
         }
     ],
     "wof:id":85632491,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563289150,
+    "wof:lastmodified":1565653224,
     "wof:name":"Barbados",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

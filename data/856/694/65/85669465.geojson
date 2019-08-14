@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "MI"
+    ],
     "lbl:latitude":13.120131,
     "lbl:longitude":-59.603234,
     "mps:latitude":13.120131,
@@ -307,16 +310,13 @@
         }
     ],
     "wof:id":85669465,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563289145,
+    "wof:lastmodified":1565653224,
     "wof:name":"Saint Michael",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

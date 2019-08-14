@@ -17,6 +17,9 @@
     "label:eng_x_preferred_placetype":[
         "parish"
     ],
+    "label:eng_x_preferred_shortcode":[
+        "JN"
+    ],
     "lbl:latitude":13.183659,
     "lbl:longitude":-59.509147,
     "mps:latitude":13.183659,
@@ -280,16 +283,13 @@
         }
     ],
     "wof:id":85669451,
-    "wof:lang":[
-        "eng"
-    ],
     "wof:lang_x_official":[
         "eng"
     ],
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1563289143,
+    "wof:lastmodified":1565653224,
     "wof:name":"Saint John",
     "wof:parent_id":85632491,
     "wof:placetype":"region",
