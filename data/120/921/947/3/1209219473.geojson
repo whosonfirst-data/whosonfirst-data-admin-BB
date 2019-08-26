@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.48035,13.15957,-59.44035,13.19957",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632491
@@ -34,7 +38,7 @@
         "gn:id":3373560
     },
     "wof:country":"BB",
-    "wof:geomhash":"bc0d2f905e6ee3055b0299e53219a255",
+    "wof:geomhash":"d0fccc73f5c34b5acf58b2281412cc3c",
     "wof:hierarchy":[
         {
             "country_id":85632491,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209219473,
-    "wof:lastmodified":1536294014,
+    "wof:lastmodified":1566605830,
     "wof:name":"Saint Marks",
     "wof:parent_id":85632491,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -59.46035,
-    13.179570000000002,
+    13.17957,
     -59.46035,
-    13.179570000000002
+    13.17957
 ],
   "geometry": {"coordinates":[-59.46035,13.17957],"type":"Point"}
 }

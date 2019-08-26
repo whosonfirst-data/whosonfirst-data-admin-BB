@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.58487,13.16304,-59.54487,13.20304",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Clifton Hill"
     ],
@@ -58,7 +62,7 @@
         }
     ],
     "wof:id":1343749921,
-    "wof:lastmodified":1564150851,
+    "wof:lastmodified":1566605817,
     "wof:name":"Clifton Hill",
     "wof:parent_id":85669477,
     "wof:placetype":"locality",

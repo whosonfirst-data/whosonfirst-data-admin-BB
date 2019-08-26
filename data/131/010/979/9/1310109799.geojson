@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.56779,13.06631,-59.52779,13.10631",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -47,7 +51,7 @@
         }
     ],
     "wof:id":1310109799,
-    "wof:lastmodified":1537486874,
+    "wof:lastmodified":1566605834,
     "wof:name":"Bannatyne",
     "wof:parent_id":85669435,
     "wof:placetype":"locality",

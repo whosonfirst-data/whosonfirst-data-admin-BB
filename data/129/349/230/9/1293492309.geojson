@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.53371,13.13532,-59.49371,13.17532",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:ceb_x_preferred":[
         "Henley"
     ],
@@ -79,7 +83,7 @@
         }
     ],
     "wof:id":1293492309,
-    "wof:lastmodified":1564150861,
+    "wof:lastmodified":1566605822,
     "wof:name":"Henley",
     "wof:parent_id":85669451,
     "wof:placetype":"locality",

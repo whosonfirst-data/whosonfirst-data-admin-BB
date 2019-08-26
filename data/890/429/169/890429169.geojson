@@ -11,10 +11,14 @@
     "geom:longitude":-59.53333,
     "gn:country":"BB",
     "gn:fcode":"PPL",
-    "gn:pop":623,
+    "gn:population":623,
     "iso:country":"BB",
+    "lbl:bbox":"-59.55333,13.16333,-59.51333,13.20333",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":11.0,
     "qs:name":"Blackmans",
     "qs:photos_9r":0,
     "qs:photos_sr":0,
@@ -29,7 +33,7 @@
     "wof:concordances":{
         "gn:id":3374056,
         "gp:id":56299,
-        "qs:id":95407
+        "qs_pg:id":95407
     },
     "wof:country":"BB",
     "wof:created":1469051798,
@@ -43,7 +47,7 @@
         }
     ],
     "wof:id":890429169,
-    "wof:lastmodified":1505343510,
+    "wof:lastmodified":1566605839,
     "wof:name":"Blackmans",
     "wof:parent_id":85669451,
     "wof:placetype":"locality",

@@ -11,10 +11,14 @@
     "geom:longitude":-59.56667,
     "gn:country":"BB",
     "gn:fcode":"PPL",
-    "gn:pop":623,
+    "gn:population":623,
     "iso:country":"BB",
+    "lbl:bbox":"-59.58667,13.23,-59.54667,13.27",
+    "lbl:max_zoom":17.0,
+    "lbl:min_zoom":12.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Greenland"
     ],
@@ -57,7 +61,7 @@
     "wof:concordances":{
         "gn:id":3373831,
         "gp:id":56614,
-        "qs:id":582984,
+        "qs_pg:id":582984,
         "wd:id":"Q3556018",
         "wk:page":"Greenland"
     },
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":890452805,
-    "wof:lastmodified":1563289212,
+    "wof:lastmodified":1566605839,
     "wof:name":"Greenland",
     "wof:parent_id":85669439,
     "wof:placetype":"locality",

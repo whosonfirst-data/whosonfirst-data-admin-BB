@@ -10,8 +10,10 @@
     "geom:latitude":13.081927,
     "geom:longitude":-59.610205,
     "iso:country":"BB",
+    "lbl:bbox":"-59.615205,13.076927,-59.605205,13.086927",
     "lbl:latitude":13.081927,
     "lbl:longitude":-59.610205,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.07864,
     "mps:longitude":-59.613312,
     "mz:hierarchy_label":0,
@@ -56,9 +58,6 @@
     "name:tur_x_preferred":[
         "Cheapside"
     ],
-    "name:unk_x_variant":[
-        "Cheapside"
-    ],
     "name:zho_x_preferred":[
         "\u9f50\u666e\u8d5b\u8857"
     ],
@@ -86,7 +85,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":1682,
     "wof:belongsto":[
         102191575,
@@ -111,7 +110,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564150855,
+    "wof:lastmodified":1566605819,
     "wof:name":"Cheapside",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

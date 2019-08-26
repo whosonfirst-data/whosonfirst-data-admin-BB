@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.57034,13.12593,-59.53034,13.16593",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1327041515,
-    "wof:lastmodified":1536747019,
+    "wof:lastmodified":1566605813,
     "wof:name":"Free Hill",
     "wof:parent_id":85669445,
     "wof:placetype":"locality",

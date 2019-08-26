@@ -21,6 +21,8 @@
     ],
     "lbl:latitude":13.144115,
     "lbl:longitude":-59.555728,
+    "lbl:max_zoom":8.0,
+    "lbl:min_zoom":4.0,
     "mps:latitude":13.144115,
     "mps:longitude":-59.555728,
     "mz:hierarchy_label":1,
@@ -678,7 +680,7 @@
     "name:ukr_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Barbadoes"
     ],
     "name:urd_x_preferred":[
@@ -835,7 +837,7 @@
     "src:geom_alt":[
         "naturalearth"
     ],
-    "src:lbl:centroid":"mapshaper",
+    "src:lbl_centroid":"mapshaper",
     "src:population":"wk",
     "statoids:dial":"1-246",
     "statoids:ds":"BDS",
@@ -879,7 +881,7 @@
         "mzb:id":"barbados",
         "ne:adm0_a3":"BRB",
         "nyt:id":"18385380429006263991",
-        "qs:id":1263198,
+        "qs_pg:id":1263198,
         "uncrt:id":"BDS",
         "wd:id":"Q244",
         "wk:page":"Barbados",
@@ -901,7 +903,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1565653224,
+    "wof:lastmodified":1566605820,
     "wof:name":"Barbados",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

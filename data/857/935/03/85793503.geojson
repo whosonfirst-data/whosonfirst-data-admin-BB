@@ -12,8 +12,10 @@
     "gn:latitude":13.1,
     "gn:longitude":-59.61667,
     "iso:country":"BB",
+    "lbl:bbox":"-59.638155,13.12503,-59.628155,13.13503",
     "lbl:latitude":13.13003,
     "lbl:longitude":-59.633155,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.128785,
     "mps:longitude":-59.639215,
     "mz:hierarchy_label":0,
@@ -205,9 +207,6 @@
     "name:ukr_x_preferred":[
         "\u0414\u0438\u044f\u043a\u043e\u043d"
     ],
-    "name:unk_x_variant":[
-        "Deacons"
-    ],
     "name:urd_x_preferred":[
         "\u0634\u0645\u0627\u0633"
     ],
@@ -243,7 +242,7 @@
         "quattroshapes_pg",
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":7038,
     "wof:belongsto":[
         102191575,
@@ -254,7 +253,6 @@
     "wof:concordances":{
         "gn:id":3373932,
         "gp:id":56401,
-        "qs:id":1082567,
         "qs_pg:id":1082567,
         "wd:id":"Q161944"
     },
@@ -273,7 +271,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1563289138,
+    "wof:lastmodified":1566605818,
     "wof:name":"Deacons",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.54412,13.12762,-59.50412,13.16762",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:als_x_preferred":[
         "Gr\u00fcne"
     ],
@@ -73,7 +77,7 @@
         }
     ],
     "wof:id":1276476611,
-    "wof:lastmodified":1564150872,
+    "wof:lastmodified":1566605826,
     "wof:name":"Greens",
     "wof:parent_id":85669445,
     "wof:placetype":"locality",

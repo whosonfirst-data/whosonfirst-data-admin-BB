@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.6369,13.24572,-59.5969,13.28572",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632491
@@ -34,7 +38,7 @@
         "gn:id":3373678
     },
     "wof:country":"BB",
-    "wof:geomhash":"7a875d21b7796431787fb1bbce530855",
+    "wof:geomhash":"d78770ae4f05be70c281a2256c5f16dd",
     "wof:hierarchy":[
         {
             "country_id":85632491,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209096011,
-    "wof:lastmodified":1536297884,
+    "wof:lastmodified":1566605827,
     "wof:name":"Mount Brevitor",
     "wof:parent_id":85632491,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -59.6169,
-    13.265720000000002,
+    13.26572,
     -59.6169,
-    13.265720000000002
+    13.26572
 ],
   "geometry": {"coordinates":[-59.6169,13.26572],"type":"Point"}
 }

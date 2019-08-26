@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.46427,13.10805,-59.42427,13.14805",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:lav_x_preferred":[
         "Robinsons"
     ],
@@ -49,7 +53,7 @@
         }
     ],
     "wof:id":1326613925,
-    "wof:lastmodified":1564150826,
+    "wof:lastmodified":1566605811,
     "wof:name":"Robinsons",
     "wof:parent_id":85669473,
     "wof:placetype":"locality",

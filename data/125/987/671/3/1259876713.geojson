@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.66688,13.26057,-59.62688,13.30057",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1259876713,
-    "wof:lastmodified":1536789408,
+    "wof:lastmodified":1566605845,
     "wof:name":"Sutherland Road",
     "wof:parent_id":85669459,
     "wof:placetype":"locality",

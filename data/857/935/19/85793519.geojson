@@ -9,14 +9,16 @@
     "geom:bbox":"-59.592683,13.074962,-59.592683,13.074962",
     "geom:latitude":13.074962,
     "geom:longitude":-59.592683,
-    "gn:gn_country":"BB",
-    "gn:gn_fcode":"PPLX",
-    "gn:gn_pop":0,
+    "gn:country":"BB",
+    "gn:fcode":"PPLX",
     "gn:latitude":13.08333,
     "gn:longitude":-59.6,
+    "gn:population":0,
     "iso:country":"BB",
+    "lbl:bbox":"-59.597683,13.069962,-59.587683,13.079962",
     "lbl:latitude":13.074962,
     "lbl:longitude":-59.592683,
+    "lbl:max_zoom":18.0,
     "mps:latitude":13.077687,
     "mps:longitude":-59.593533,
     "mz:hierarchy_label":0,
@@ -76,9 +78,6 @@
     "name:swe_x_preferred":[
         "Weymouth"
     ],
-    "name:unk_x_variant":[
-        "Weymouth"
-    ],
     "name:vol_x_preferred":[
         "Weymouth"
     ],
@@ -127,7 +126,7 @@
     "src:geom_alt":[
         "quattroshapes"
     ],
-    "src:lbl:centroid":"yerbashapes",
+    "src:lbl_centroid":"yerbashapes",
     "wd:wordcount":173,
     "wof:belongsto":[
         102191575,
@@ -137,7 +136,6 @@
     "wof:concordances":{
         "gn:id":3373422,
         "gp:id":56773,
-        "qs:id":1113349,
         "qs_pg:id":1113349
     },
     "wof:country":"BB",
@@ -155,7 +153,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1564150854,
+    "wof:lastmodified":1566605818,
     "wof:name":"Weymouth",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
