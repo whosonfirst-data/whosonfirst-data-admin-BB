@@ -11,10 +11,14 @@
     "geom:longitude":-59.53333,
     "gn:country":"BB",
     "gn:fcode":"PPL",
-    "gn:pop":2285,
+    "gn:population":2285,
     "iso:country":"BB",
+    "lbl:bbox":"-59.55333,13.04667,-59.51333,13.08667",
+    "lbl:max_zoom":15.0,
+    "lbl:min_zoom":11.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":11.0,
     "name:ceb_x_preferred":[
         "Oistins"
     ],
@@ -57,7 +61,7 @@
     "name:swe_x_preferred":[
         "Oistins"
     ],
-    "name:unk_x_variant":[
+    "name:und_x_variant":[
         "Oistin\u2019s Town"
     ],
     "name:urd_x_preferred":[
@@ -78,7 +82,7 @@
     "wof:concordances":{
         "gn:id":3373652,
         "gp:id":56575,
-        "qs:id":279732,
+        "qs_pg:id":279732,
         "wd:id":"Q692475",
         "wk:page":"Oistins"
     },
@@ -94,7 +98,7 @@
         }
     ],
     "wof:id":890431037,
-    "wof:lastmodified":1563289213,
+    "wof:lastmodified":1566605839,
     "wof:name":"Oistins",
     "wof:parent_id":85669435,
     "wof:placetype":"locality",

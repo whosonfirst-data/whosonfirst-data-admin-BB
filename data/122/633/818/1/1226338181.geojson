@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.64263,13.23173,-59.60263,13.27173",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:cat_x_preferred":[
         "White Hall"
     ],
@@ -76,7 +80,7 @@
         }
     ],
     "wof:id":1226338181,
-    "wof:lastmodified":1564150947,
+    "wof:lastmodified":1566605847,
     "wof:name":"White Hall",
     "wof:parent_id":85669469,
     "wof:placetype":"locality",

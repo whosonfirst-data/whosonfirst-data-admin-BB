@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.58805,13.05212,-59.54805,13.09212",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -45,7 +49,7 @@
         }
     ],
     "wof:id":1309919821,
-    "wof:lastmodified":1536767056,
+    "wof:lastmodified":1566605836,
     "wof:name":"Top Rock",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

@@ -5,11 +5,17 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.0,
+    "geom:area_square_m":0.0,
     "geom:bbox":"-59.6,13.31667,-59.6,13.31667",
     "geom:latitude":13.31667,
     "geom:longitude":-59.6,
     "iso:country":"BB",
+    "lbl:bbox":"-59.62,13.29667,-59.58,13.33667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
+    "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "qs:gn_country":"BB",
     "qs:gn_fcode":"PPL",
@@ -39,11 +45,11 @@
     "wof:concordances":{
         "gn:id":3373886,
         "gp:id":56445,
-        "qs:id":240914
+        "qs_pg:id":240914
     },
     "wof:country":"BB",
     "wof:created":1459010186,
-    "wof:geomhash":"cae8a54a6d4a42f61fda16fe24f3f323",
+    "wof:geomhash":"bfb8eaa8703f05c32083b07715fbb094",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -53,7 +59,7 @@
         }
     ],
     "wof:id":421204435,
-    "wof:lastmodified":1466635899,
+    "wof:lastmodified":1566605838,
     "wof:name":"Flatfield",
     "wof:parent_id":85669459,
     "wof:placetype":"locality",

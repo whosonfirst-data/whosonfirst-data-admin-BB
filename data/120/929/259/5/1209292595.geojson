@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.61366,13.12288,-59.57366,13.16288",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         85632491
@@ -34,7 +38,7 @@
         "gn:id":3373735
     },
     "wof:country":"BB",
-    "wof:geomhash":"b76082d81d74942dc9a88d0653c56dcd",
+    "wof:geomhash":"469fc42c2d9708cc98e97c8dddff4248",
     "wof:hierarchy":[
         {
             "country_id":85632491,
@@ -42,7 +46,7 @@
         }
     ],
     "wof:id":1209292595,
-    "wof:lastmodified":1536291641,
+    "wof:lastmodified":1566605829,
     "wof:name":"Lears",
     "wof:parent_id":85632491,
     "wof:placetype":"locality",
@@ -53,9 +57,9 @@
 },
   "bbox": [
     -59.59366,
-    13.142879999999998,
+    13.14288,
     -59.59366,
-    13.142879999999998
+    13.14288
 ],
   "geometry": {"coordinates":[-59.59366,13.14288],"type":"Point"}
 }

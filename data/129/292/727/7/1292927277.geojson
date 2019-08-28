@@ -23,8 +23,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.62139,13.20764,-59.58139,13.24764",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "src:geom":"geonames",
     "wof:belongsto":[
         102191575,
@@ -46,7 +50,7 @@
         }
     ],
     "wof:id":1292927277,
-    "wof:lastmodified":1537094580,
+    "wof:lastmodified":1566605821,
     "wof:name":"Spring Head",
     "wof:parent_id":85669439,
     "wof:placetype":"locality",

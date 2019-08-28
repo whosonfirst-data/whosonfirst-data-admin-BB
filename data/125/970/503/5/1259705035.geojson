@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.63315,13.31426,-59.59315,13.35426",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:spa_x_preferred":[
         "Cueva Animal Flower"
     ],
@@ -55,7 +59,7 @@
         }
     ],
     "wof:id":1259705035,
-    "wof:lastmodified":1564150937,
+    "wof:lastmodified":1566605844,
     "wof:name":"Animal Flower Cave",
     "wof:parent_id":85669459,
     "wof:placetype":"locality",

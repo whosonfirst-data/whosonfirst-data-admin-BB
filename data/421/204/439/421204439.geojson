@@ -10,8 +10,12 @@
     "geom:latitude":13.06667,
     "geom:longitude":-59.55,
     "iso:country":"BB",
+    "lbl:bbox":"-59.57,13.04667,-59.53,13.08667",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":1,
+    "mz:min_zoom":12.0,
     "mz:note":"quattroshapes points import (201603)",
     "name:bar_x_preferred":[
         "Maxwell"
@@ -97,7 +101,7 @@
     "wof:concordances":{
         "gn:id":3373700,
         "gp:id":56575,
-        "qs:id":240919,
+        "qs_pg:id":240919,
         "wd:id":"Q14215130"
     },
     "wof:country":"BB",
@@ -110,7 +114,7 @@
         }
     ],
     "wof:id":421204439,
-    "wof:lastmodified":1563289204,
+    "wof:lastmodified":1566605838,
     "wof:name":"Maxwell",
     "wof:parent_id":-1,
     "wof:placetype":"locality",

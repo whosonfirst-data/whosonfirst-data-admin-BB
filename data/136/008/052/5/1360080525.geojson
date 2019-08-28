@@ -24,8 +24,12 @@
     "gn:population":0,
     "gn:timezone":"America/Barbados",
     "iso:country":"BB",
+    "lbl:bbox":"-59.56337,13.18868,-59.52337,13.22868",
+    "lbl:max_zoom":18.0,
+    "lbl:min_zoom":13.5,
     "mz:hierarchy_label":1,
     "mz:is_current":-1,
+    "mz:min_zoom":12.0,
     "name:und_x_variant":[
         "Frazers",
         "Frizers"
@@ -51,7 +55,7 @@
         }
     ],
     "wof:id":1360080525,
-    "wof:lastmodified":1537585685,
+    "wof:lastmodified":1566605835,
     "wof:name":"Frizers",
     "wof:parent_id":85669457,
     "wof:placetype":"locality",
