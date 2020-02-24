@@ -71,6 +71,9 @@
         "qs:id":1082566
     },
     "wof:country":"BB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"3bf56813fe12c249b48d6da3861976e8",
     "wof:hierarchy":[
         {
@@ -85,7 +88,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1534379234,
+    "wof:lastmodified":1582319512,
     "wof:name":"Brighton",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

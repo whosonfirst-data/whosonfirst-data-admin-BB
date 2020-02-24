@@ -76,6 +76,10 @@
         "qs_pg:id":211022
     },
     "wof:country":"BB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"bcb72546e0939ec96ea79c2d1d211948",
     "wof:hierarchy":[
         {
@@ -90,7 +94,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566605818,
+    "wof:lastmodified":1582319512,
     "wof:name":"Station Hill",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

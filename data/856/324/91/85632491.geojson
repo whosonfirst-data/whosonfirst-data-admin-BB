@@ -889,6 +889,10 @@
     },
     "wof:country":"BB",
     "wof:country_alpha3":"BRB",
+    "wof:geom_alt":[
+        "naturalearth",
+        "naturalearth-display-terrestrial-zoom6"
+    ],
     "wof:geomhash":"7e58e9b5d64ace75333a4c19c98ea43a",
     "wof:hierarchy":[
         {
@@ -903,7 +907,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1566605820,
+    "wof:lastmodified":1582319512,
     "wof:name":"Barbados",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

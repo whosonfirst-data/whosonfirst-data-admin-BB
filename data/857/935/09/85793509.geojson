@@ -63,6 +63,9 @@
         "gp:id":56503
     },
     "wof:country":"BB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"840840d578022d693693ac8fc4ebba82",
     "wof:hierarchy":[
         {
@@ -77,7 +80,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566605818,
+    "wof:lastmodified":1582319512,
     "wof:name":"Henrys",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -96,6 +96,9 @@
         "gp:id":56362
     },
     "wof:country":"BB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"cf1c6731f45dca59c78fb0385ffc95a9",
     "wof:hierarchy":[
         {
@@ -110,7 +113,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566605819,
+    "wof:lastmodified":1582319512,
     "wof:name":"Cheapside",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",
