@@ -257,6 +257,10 @@
         "wd:id":"Q161944"
     },
     "wof:country":"BB",
+    "wof:geom_alt":[
+        "quattroshapes",
+        "quattroshapes_pg"
+    ],
     "wof:geomhash":"d4ea10fb73a26f80e4e0e97cdf769012",
     "wof:hierarchy":[
         {
@@ -271,7 +275,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566605818,
+    "wof:lastmodified":1582319512,
     "wof:name":"Deacons",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

@@ -139,6 +139,9 @@
         "qs_pg:id":1113349
     },
     "wof:country":"BB",
+    "wof:geom_alt":[
+        "quattroshapes"
+    ],
     "wof:geomhash":"9868cc89db9f746b76608e8a04750b0b",
     "wof:hierarchy":[
         {
@@ -153,7 +156,7 @@
     "wof:lang":[
         "eng"
     ],
-    "wof:lastmodified":1566605818,
+    "wof:lastmodified":1582319512,
     "wof:name":"Weymouth",
     "wof:parent_id":-1,
     "wof:placetype":"neighbourhood",

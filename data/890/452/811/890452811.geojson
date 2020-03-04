@@ -412,6 +412,9 @@
     },
     "wof:country":"BB",
     "wof:created":1469052830,
+    "wof:geom_alt":[
+        "unknown"
+    ],
     "wof:geomhash":"2479aeea34fcccce6a46855a2584602d",
     "wof:hierarchy":[
         {
@@ -422,7 +425,7 @@
         }
     ],
     "wof:id":890452811,
-    "wof:lastmodified":1566605839,
+    "wof:lastmodified":1582319513,
     "wof:name":"Bridgetown",
     "wof:parent_id":85669465,
     "wof:placetype":"locality",
