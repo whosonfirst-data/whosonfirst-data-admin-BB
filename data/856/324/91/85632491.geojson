@@ -866,9 +866,7 @@
     ],
     "wof:concordances":{
         "dbp:id":"Barbados",
-        "digitalenvoy:country_code":[
-            52
-        ],
+        "digitalenvoy:country_code":52,
         "fb:id":"en.barbados",
         "fifa:id":"BRB",
         "fips:code":"BB",
@@ -910,7 +908,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1583529089,
+    "wof:lastmodified":1583797292,
     "wof:name":"Barbados",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
