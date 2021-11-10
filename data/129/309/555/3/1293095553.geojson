@@ -53,6 +53,9 @@
     "name:deu_x_preferred":[
         "Durham"
     ],
+    "name:ell_x_preferred":[
+        "\u039d\u03c4\u03ac\u03c1\u03c7\u03b1\u03bc"
+    ],
     "name:epo_x_preferred":[
         "Durham"
     ],
@@ -149,7 +152,7 @@
         }
     ],
     "wof:id":1293095553,
-    "wof:lastmodified":1566605820,
+    "wof:lastmodified":1636496005,
     "wof:name":"Durham",
     "wof:parent_id":85669459,
     "wof:placetype":"locality",

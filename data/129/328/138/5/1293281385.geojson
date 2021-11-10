@@ -32,11 +32,59 @@
     "name:bar_x_preferred":[
         "Plumtree"
     ],
+    "name:ben_x_preferred":[
+        "\u09aa\u09cd\u09b2\u09be\u09ae\u099f\u09cd\u09b0\u09bf"
+    ],
     "name:ceb_x_preferred":[
         "Plumtree"
     ],
+    "name:ell_x_preferred":[
+        "\u03a0\u03bb\u03b1\u03bc\u03c4\u03c1\u03b9"
+    ],
+    "name:fas_x_preferred":[
+        "\u067e\u0644\u0627\u0645 \u062a\u0631\u06cc"
+    ],
+    "name:heb_x_preferred":[
+        "\u05e4\u05dc\u05d5\u05de\u05d8\u05e8\u05d9"
+    ],
+    "name:hin_x_preferred":[
+        "\u092a\u094d\u0932\u092e\u091f\u094d\u0930\u0940"
+    ],
+    "name:hun_x_preferred":[
+        "Plumtree"
+    ],
+    "name:ind_x_preferred":[
+        "Plumtree"
+    ],
+    "name:ita_x_preferred":[
+        "Plumtree"
+    ],
+    "name:kor_x_preferred":[
+        "\ud50c\ub7fc\ud2b8\ub9ac"
+    ],
+    "name:rus_x_preferred":[
+        "\u041f\u043b\u0430\u043c\u0442\u0440\u0438"
+    ],
     "name:swe_x_preferred":[
         "Plumtree"
+    ],
+    "name:tur_x_preferred":[
+        "Plumtree"
+    ],
+    "name:ukr_x_preferred":[
+        "\u041f\u043b\u0430\u043c\u0442\u0440\u0456"
+    ],
+    "name:urd_x_preferred":[
+        "\u067e\u0644\u0645\u0679\u0631\u06cc"
+    ],
+    "name:vie_x_preferred":[
+        "Plumtree"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u666e\u62c9\u59c6\u7279\u91cc"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u666e\u62c9\u7279\u91cc"
     ],
     "src:geom":"geonames",
     "wof:belongsto":[
@@ -49,7 +97,7 @@
         "gn:id":3373624
     },
     "wof:country":"BB",
-    "wof:geomhash":"b55edd33e228792383fbdd8c76ea7964",
+    "wof:geomhash":"44d4b030f18799505b83363052631368",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -59,7 +107,7 @@
         }
     ],
     "wof:id":1293281385,
-    "wof:lastmodified":1566605824,
+    "wof:lastmodified":1636496005,
     "wof:name":"Plumtree",
     "wof:parent_id":85669477,
     "wof:placetype":"locality",
@@ -69,10 +117,10 @@
     "wof:tags":[]
 },
   "bbox": [
-    -59.60534000000001,
+    -59.60534,
     13.20372,
-    -59.60534000000001,
+    -59.60534,
     13.20372
 ],
-  "geometry": {"coordinates":[-59.60534000000001,13.20372],"type":"Point"}
+  "geometry": {"coordinates":[-59.60534,13.20372],"type":"Point"}
 }

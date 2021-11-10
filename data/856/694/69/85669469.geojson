@@ -169,13 +169,19 @@
         "Saint Peters"
     ],
     "name:urd_x_preferred":[
-        "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0679\u0631\u060c \u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
+        "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0679\u0631"
     ],
     "name:urd_x_variant":[
-        "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0679\u0631"
+        "\u0633\u06cc\u0646\u0679 \u067e\u06cc\u0679\u0631\u060c \u0628\u0627\u0631\u0628\u0627\u0688\u0648\u0633"
     ],
     "name:vie_x_preferred":[
         "Saint Peter"
+    ],
+    "name:zho_cn_x_preferred":[
+        "\u5723\u5f7c\u5f97"
+    ],
+    "name:zho_tw_x_preferred":[
+        "\u8056\u5f7c\u5f97"
     ],
     "name:zho_x_preferred":[
         "\u8056\u5f7c\u5f97\u6559\u5340"
@@ -299,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1614892915,
+    "wof:lastmodified":1636496003,
     "wof:name":"Saint Peter",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

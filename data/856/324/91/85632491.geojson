@@ -744,10 +744,11 @@
         "Barbados"
     ],
     "name:vie_x_preferred":[
-        "Barbados"
+        "\u0110\u1ea3o Barbados"
     ],
     "name:vie_x_variant":[
-        "B\u00e1c-ba-\u0111\u1ed1t"
+        "B\u00e1c-ba-\u0111\u1ed1t",
+        "Barbados"
     ],
     "name:vol_x_preferred":[
         "Barbade\u00e4n"
@@ -1033,7 +1034,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1617827418,
+    "wof:lastmodified":1636496005,
     "wof:name":"Barbados",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

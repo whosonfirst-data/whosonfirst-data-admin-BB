@@ -48,7 +48,13 @@
         "Pool"
     ],
     "name:heb_x_preferred":[
+        "\u05e4\u05bc\u05d5\u05bc\u05dc"
+    ],
+    "name:heb_x_variant":[
         "\u05e4\u05d5\u05dc"
+    ],
+    "name:hun_x_preferred":[
+        "Pool"
     ],
     "name:ita_x_preferred":[
         "Pool"
@@ -107,7 +113,7 @@
         }
     ],
     "wof:id":1226574771,
-    "wof:lastmodified":1566605847,
+    "wof:lastmodified":1636496008,
     "wof:name":"Pool",
     "wof:parent_id":85669451,
     "wof:placetype":"locality",
