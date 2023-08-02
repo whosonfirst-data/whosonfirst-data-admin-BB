@@ -29,11 +29,17 @@
     "mz:is_current":1,
     "mz:max_zoom":9.5,
     "mz:min_zoom":4.5,
+    "name:abk_x_preferred":[
+        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    ],
     "name:afr_x_preferred":[
         "Barbados"
     ],
     "name:aka_x_preferred":[
         "Baabados"
+    ],
+    "name:aka_x_variant":[
+        "Barbados"
     ],
     "name:als_x_preferred":[
         "Barbados"
@@ -41,8 +47,14 @@
     "name:amh_x_preferred":[
         "\u1263\u122d\u1264\u12f6\u1235"
     ],
+    "name:ami_x_preferred":[
+        "Barbados"
+    ],
     "name:ang_x_preferred":[
         "Barbados"
+    ],
+    "name:anp_x_preferred":[
+        "\u092c\u093e\u0930\u094d\u092c\u093e\u0926\u094b\u0938"
     ],
     "name:ara_x_preferred":[
         "\u0628\u0627\u0631\u0628\u0627\u062f\u0648\u0633"
@@ -58,6 +70,9 @@
     ],
     "name:arz_x_preferred":[
         "\u0628\u0627\u0631\u0628\u064a\u062f\u0648\u0633"
+    ],
+    "name:asm_x_preferred":[
+        "\u09ac\u09be\u09f0\u09cd\u09ac\u09be\u09a1\u09cb\u099a"
     ],
     "name:ast_x_preferred":[
         "Barbados"
@@ -76,6 +91,9 @@
     ],
     "name:bam_x_preferred":[
         "Barbadi"
+    ],
+    "name:ban_x_preferred":[
+        "Barbados"
     ],
     "name:bar_x_preferred":[
         "Barbados"
@@ -97,6 +115,9 @@
     ],
     "name:bho_x_preferred":[
         "\u092c\u093e\u0930\u092c\u093e\u0921\u094b\u0938"
+    ],
+    "name:bis_x_preferred":[
+        "Babados"
     ],
     "name:bod_x_preferred":[
         "\u0f56\u0f62\u0f0b\u0f56\u0f0b\u0f4c\u0f7c\u0f0b\u0f66\u0f72\u0f0d"
@@ -138,6 +159,9 @@
     "name:chr_x_preferred":[
         "\u13c6\u13c7\u13d9\u13cd"
     ],
+    "name:chv_x_preferred":[
+        "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    ],
     "name:ckb_x_preferred":[
         "\u0628\u0627\u0631\u0628\u0627\u062f\u06c6\u0633"
     ],
@@ -147,10 +171,16 @@
     "name:cos_x_preferred":[
         "Barbados"
     ],
+    "name:cos_x_variant":[
+        "Barbada"
+    ],
     "name:crh_x_preferred":[
         "Barbados"
     ],
     "name:cym_x_preferred":[
+        "Barbados"
+    ],
+    "name:dag_x_preferred":[
         "Barbados"
     ],
     "name:dan_x_preferred":[
@@ -233,6 +263,9 @@
     "name:frr_x_preferred":[
         "Barbados"
     ],
+    "name:frr_x_variant":[
+        "Barbaados"
+    ],
     "name:fry_x_preferred":[
         "Barbados"
     ],
@@ -260,6 +293,9 @@
     "name:gom_x_preferred":[
         "\u092c\u093e\u0930\u094d\u092c\u093e\u0921\u094b\u0938"
     ],
+    "name:gpe_x_preferred":[
+        "Barbados"
+    ],
     "name:grn_x_preferred":[
         "Varvado"
     ],
@@ -277,6 +313,9 @@
     ],
     "name:hau_x_preferred":[
         "Barbadas"
+    ],
+    "name:hau_x_variant":[
+        "Barbados"
     ],
     "name:hbs_x_preferred":[
         "Barbados"
@@ -410,6 +449,9 @@
     "name:lit_x_preferred":[
         "Barbadosas"
     ],
+    "name:lld_x_preferred":[
+        "Barbados"
+    ],
     "name:lmo_x_preferred":[
         "Barbados"
     ],
@@ -424,6 +466,9 @@
     ],
     "name:lzh_x_preferred":[
         "\u5df4\u8c9d\u591a"
+    ],
+    "name:mad_x_preferred":[
+        "Barbados"
     ],
     "name:mal_x_preferred":[
         "\u0d2c\u0d7c\u0d2c\u0d3e\u0d21\u0d4b\u0d38\u0d4d"
@@ -440,6 +485,9 @@
     "name:mhr_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
     ],
+    "name:min_x_preferred":[
+        "Barbados"
+    ],
     "name:mkd_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
     ],
@@ -449,13 +497,22 @@
     "name:mlt_x_preferred":[
         "Barbados"
     ],
+    "name:mni_x_preferred":[
+        "\uabd5\uabe5\uabd4\uabd5\uabe5\uabd7\uabe3\uabc1"
+    ],
     "name:mon_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
+    ],
+    "name:mri_x_preferred":[
+        "P\u0101patohe"
     ],
     "name:mrj_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
     ],
     "name:msa_x_preferred":[
+        "Barbados"
+    ],
+    "name:mwl_x_preferred":[
         "Barbados"
     ],
     "name:mya_x_preferred":[
@@ -536,6 +593,9 @@
     "name:pap_x_preferred":[
         "Barbados"
     ],
+    "name:pcd_x_preferred":[
+        "Barbade"
+    ],
     "name:pih_x_preferred":[
         "Barbados"
     ],
@@ -605,6 +665,9 @@
     "name:sgs_x_preferred":[
         "Barbaduosos"
     ],
+    "name:shn_x_preferred":[
+        "\u1019\u102d\u1030\u1004\u103a\u1038\u1015\u1083\u1038\u1015\u1031\u1087\u1010\u1030\u1010\u103a\u1088"
+    ],
     "name:sin_x_preferred":[
         "\u0db6\u0dcf\u0dbb\u0dca\u0db6\u0da9\u0ddd\u0dc3\u0dca"
     ],
@@ -620,7 +683,16 @@
     "name:sme_x_preferred":[
         "Barbados"
     ],
+    "name:smj_x_preferred":[
+        "Barbad\u00e5vss\u00e5"
+    ],
+    "name:smn_x_preferred":[
+        "Barbados"
+    ],
     "name:smo_x_preferred":[
+        "Barbados"
+    ],
+    "name:sms_x_preferred":[
         "Barbados"
     ],
     "name:sna_x_preferred":[
@@ -686,6 +758,9 @@
     "name:tat_x_preferred":[
         "\u0411\u0430\u0440\u0431\u0430\u0434\u043e\u0441"
     ],
+    "name:tay_x_preferred":[
+        "Barbados"
+    ],
     "name:tel_x_preferred":[
         "\u0c2c\u0c3e\u0c30\u0c4d\u0c2c\u0c21\u0c4b\u0c38\u0c4d"
     ],
@@ -707,8 +782,14 @@
     "name:tir_x_preferred":[
         "\u1263\u122d\u1264\u12f6\u1235"
     ],
+    "name:tok_x_preferred":[
+        "ma Papeto"
+    ],
     "name:ton_x_preferred":[
         "P\u0101peitosi"
+    ],
+    "name:trv_x_preferred":[
+        "Barbados"
     ],
     "name:tuk_x_preferred":[
         "Barbados"
@@ -1034,7 +1115,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496005,
+    "wof:lastmodified":1690855921,
     "wof:name":"Barbados",
     "wof:parent_id":102191575,
     "wof:placetype":"country",

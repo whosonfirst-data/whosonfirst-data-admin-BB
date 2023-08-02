@@ -78,6 +78,9 @@
     "name:fra_x_preferred":[
         "Saint Thomas"
     ],
+    "name:frr_x_preferred":[
+        "Saint Thomas"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aa5\u0acb\u0aae\u0ab8"
     ],
@@ -99,6 +102,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\ud1a0\uba38\uc2a4 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud1a0\uba38\uc2a4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Senttomasa"
     ],
@@ -119,6 +125,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Thomas prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Thomas"
     ],
     "name:nor_x_preferred":[
         "Saint Thomas prestegjeld"
@@ -297,7 +306,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496004,
+    "wof:lastmodified":1690855920,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

@@ -80,6 +80,9 @@
     "name:fra_x_preferred":[
         "Christ Church"
     ],
+    "name:frr_x_preferred":[
+        "Christ Church"
+    ],
     "name:guj_x_preferred":[
         "\u0a95\u0acd\u0ab0\u0abf\u0ab8\u0acd\u0a9f \u0a9a\u0ab0\u0acd\u0a9a"
     ],
@@ -107,6 +110,9 @@
     "name:kor_x_preferred":[
         "\ud06c\ub77c\uc774\uc2a4\ud2b8\ucc98\uce58 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\ud06c\ub77c\uc774\uc2a4\ud2b8\ucc98\uce58\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Kraist\u010d\u0113r\u010das pagasts"
     ],
@@ -127,6 +133,9 @@
     ],
     "name:nob_x_preferred":[
         "Christ Church prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Christ Church"
     ],
     "name:nor_x_preferred":[
         "Christ Church prestegjeld"
@@ -298,7 +307,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496003,
+    "wof:lastmodified":1690855918,
     "wof:name":"Christ Church",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

@@ -41,6 +41,9 @@
     "name:ben_x_variant":[
         "\u09b8\u09c7\u09a8\u09cd\u099f \u099c\u09c7\u09ae\u09b8"
     ],
+    "name:bre_x_preferred":[
+        "Saint James Parish"
+    ],
     "name:cat_x_preferred":[
         "Saint James"
     ],
@@ -81,6 +84,9 @@
     "name:fra_x_preferred":[
         "Saint James"
     ],
+    "name:frr_x_preferred":[
+        "Saint James"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0ac7\u0aae\u0acd\u0ab8"
     ],
@@ -108,6 +114,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uc81c\uc784\uc2a4 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\uc81c\uc784\uc2a4\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentd\u017eeimsa"
     ],
@@ -125,6 +134,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint James prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint James"
     ],
     "name:nor_x_preferred":[
         "Saint James prestegjeld"
@@ -299,7 +311,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496004,
+    "wof:lastmodified":1690855920,
     "wof:name":"Saint James",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

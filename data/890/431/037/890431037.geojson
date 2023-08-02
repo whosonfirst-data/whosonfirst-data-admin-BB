@@ -43,6 +43,9 @@
     "name:ita_x_preferred":[
         "Oistins"
     ],
+    "name:jpn_x_preferred":[
+        "\u30aa\u30a4\u30b9\u30c6\u30a3\u30f3\u30ba"
+    ],
     "name:lit_x_preferred":[
         "Oistinsas"
     ],
@@ -66,6 +69,12 @@
     ],
     "name:urd_x_preferred":[
         "\u0627\u0648\u0626\u0633\u0679\u0646\u0633"
+    ],
+    "name:wuu_x_preferred":[
+        "\u5965\u4f0a\u65af\u5ef7\u65af"
+    ],
+    "name:zho_x_preferred":[
+        "\u5965\u4f0a\u65af\u5ef7\u65af"
     ],
     "qs:name":"Oistins",
     "qs:photos_9r":0,
@@ -98,7 +107,7 @@
         }
     ],
     "wof:id":890431037,
-    "wof:lastmodified":1566605839,
+    "wof:lastmodified":1690855924,
     "wof:name":"Oistins",
     "wof:parent_id":85669435,
     "wof:placetype":"locality",

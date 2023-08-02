@@ -28,6 +28,9 @@
     "name:heb_x_preferred":[
         "\u05e7\u05e8\u05d0\u05d1 \u05d4\u05d9\u05dc"
     ],
+    "name:jpn_x_preferred":[
+        "\u30af\u30e9\u30d6\u30fb\u30d2\u30eb"
+    ],
     "name:nld_x_preferred":[
         "Crab Hill"
     ],
@@ -36,6 +39,9 @@
     ],
     "name:swe_x_preferred":[
         "Crab Hill"
+    ],
+    "name:zho_x_preferred":[
+        "\u514b\u62c9\u5e03\u5e0c\u5c14"
     ],
     "qs:name":"Crab Hill",
     "qs:photos_9r":0,
@@ -66,7 +72,7 @@
         }
     ],
     "wof:id":890452807,
-    "wof:lastmodified":1566605839,
+    "wof:lastmodified":1690855923,
     "wof:name":"Crab Hill",
     "wof:parent_id":85669459,
     "wof:placetype":"locality",
