@@ -84,6 +84,9 @@
     "name:fra_x_preferred":[
         "Saint Peter"
     ],
+    "name:frr_x_preferred":[
+        "Saint Peter"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0aaa\u0ac0\u0a9f\u0ab0"
     ],
@@ -105,6 +108,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\ud53c\ud130 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\ud53c\ud130\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentp\u012btera"
     ],
@@ -122,6 +128,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint Peter prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint Peter"
     ],
     "name:nor_x_preferred":[
         "Saint Peter prestegjeld"
@@ -152,6 +161,9 @@
     ],
     "name:tam_x_preferred":[
         "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd"
+    ],
+    "name:tam_x_variant":[
+        "\u0b9a\u0bc6\u0baf\u0bbf\u0ba9\u0bcd\u0b9f\u0bcd \u0baa\u0bc0\u0b9f\u0bcd\u0b9f\u0bb0\u0bcd "
     ],
     "name:tel_x_preferred":[
         "\u0c38\u0c46\u0c2f\u0c3f\u0c02\u0c1f\u0c4d \u0c2a\u0c40\u0c1f\u0c30\u0c4d"
@@ -305,7 +317,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496003,
+    "wof:lastmodified":1690855919,
     "wof:name":"Saint Peter",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

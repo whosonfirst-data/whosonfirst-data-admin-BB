@@ -71,6 +71,9 @@
     "name:bcl_x_preferred":[
         "Gibbons"
     ],
+    "name:bel_x_preferred":[
+        "\u0413\u0456\u0431\u0430\u043d\u0441"
+    ],
     "name:bis_x_preferred":[
         "Gibbons"
     ],
@@ -721,7 +724,7 @@
         }
     ],
     "wof:id":421193317,
-    "wof:lastmodified":1566605838,
+    "wof:lastmodified":1690855921,
     "wof:name":"Gibbons",
     "wof:parent_id":85669449,
     "wof:placetype":"locality",

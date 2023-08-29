@@ -78,6 +78,9 @@
     "name:fra_x_preferred":[
         "Saint George"
     ],
+    "name:frr_x_preferred":[
+        "Saint George"
+    ],
     "name:guj_x_preferred":[
         "\u0ab8\u0ac7\u0aa8\u0acd\u0a9f \u0a9c\u0acd\u0aaf\u0acb\u0ab0\u0acd\u0a9c"
     ],
@@ -105,6 +108,9 @@
     "name:kor_x_preferred":[
         "\uc138\uc778\ud2b8\uc870\uc9c0 \uad50\uad6c"
     ],
+    "name:kor_x_variant":[
+        "\uc138\uc778\ud2b8\uc870\uc9c0\uad6c"
+    ],
     "name:lav_x_preferred":[
         "Sentd\u017eord\u017ea pagasts"
     ],
@@ -125,6 +131,9 @@
     ],
     "name:nob_x_preferred":[
         "Saint George prestegjeld"
+    ],
+    "name:nob_x_variant":[
+        "Saint George"
     ],
     "name:nor_x_preferred":[
         "Saint George prestegjeld"
@@ -296,7 +305,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1636496004,
+    "wof:lastmodified":1690855919,
     "wof:name":"Saint George",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

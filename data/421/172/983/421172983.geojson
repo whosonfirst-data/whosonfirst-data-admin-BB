@@ -17,13 +17,43 @@
     "mz:is_current":1,
     "mz:min_zoom":11.0,
     "mz:note":"quattroshapes points import (201603)",
+    "name:afr_x_preferred":[
+        "Speightstown"
+    ],
+    "name:arg_x_preferred":[
+        "Speightstown"
+    ],
+    "name:ast_x_preferred":[
+        "Speightstown"
+    ],
+    "name:aze_x_preferred":[
+        "Spaytstaun"
+    ],
+    "name:bar_x_preferred":[
+        "Speightstown"
+    ],
     "name:bel_x_preferred":[
         "\u0421\u043f\u0430\u0439\u0442\u0441\u0442\u0430\u045e\u043d"
+    ],
+    "name:bre_x_preferred":[
+        "Speightstown"
     ],
     "name:bul_x_preferred":[
         "\u0421\u043f\u0435\u0439\u0442\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:cat_x_preferred":[
+        "Speightstown"
+    ],
     "name:ceb_x_preferred":[
+        "Speightstown"
+    ],
+    "name:ces_x_preferred":[
+        "Speightstown"
+    ],
+    "name:cos_x_preferred":[
+        "Speightstown"
+    ],
+    "name:cym_x_preferred":[
         "Speightstown"
     ],
     "name:dan_x_preferred":[
@@ -38,26 +68,89 @@
     "name:eng_x_preferred":[
         "Speightstown"
     ],
+    "name:epo_x_preferred":[
+        "Speightstown"
+    ],
     "name:est_x_preferred":[
+        "Speightstown"
+    ],
+    "name:eus_x_preferred":[
         "Speightstown"
     ],
     "name:fas_x_preferred":[
         "\u0627\u0633\u067e\u0627\u06cc\u062a\u0633\u200c\u062a\u0627\u0648\u0646"
     ],
+    "name:fin_x_preferred":[
+        "Speightstown"
+    ],
     "name:fra_x_preferred":[
+        "Speightstown"
+    ],
+    "name:frp_x_preferred":[
+        "Speightstown"
+    ],
+    "name:fur_x_preferred":[
+        "Speightstown"
+    ],
+    "name:gla_x_preferred":[
+        "Speightstown"
+    ],
+    "name:gle_x_preferred":[
+        "Speightstown"
+    ],
+    "name:glg_x_preferred":[
+        "Speightstown"
+    ],
+    "name:gsw_x_preferred":[
         "Speightstown"
     ],
     "name:heb_x_preferred":[
         "\u05e1\u05e4\u05d9\u05d9\u05d8\u05e1\u05d8\u05d0\u05d5\u05df"
     ],
+    "name:hrv_x_preferred":[
+        "Speightstown"
+    ],
+    "name:hun_x_preferred":[
+        "Speightstown"
+    ],
     "name:hye_x_preferred":[
         "\u054d\u057a\u0561\u0575\u0569\u057d\u0569\u0561\u0578\u0582\u0576"
+    ],
+    "name:ido_x_preferred":[
+        "Speightstown"
+    ],
+    "name:ile_x_preferred":[
+        "Speightstown"
     ],
     "name:ilo_x_preferred":[
         "Speightstown"
     ],
+    "name:ina_x_preferred":[
+        "Speightstown"
+    ],
+    "name:ind_x_preferred":[
+        "Speightstown"
+    ],
+    "name:isl_x_preferred":[
+        "Speightstown"
+    ],
+    "name:ita_x_preferred":[
+        "Speightstown"
+    ],
     "name:jpn_x_preferred":[
         "\u30b9\u30d1\u30a4\u30c4\u30bf\u30a6\u30f3"
+    ],
+    "name:kon_x_preferred":[
+        "Speightstown"
+    ],
+    "name:lav_x_preferred":[
+        "Speightstown"
+    ],
+    "name:lij_x_preferred":[
+        "Speightstown"
+    ],
+    "name:lim_x_preferred":[
+        "Speightstown"
     ],
     "name:lit_x_preferred":[
         "Spitstaunas"
@@ -65,19 +158,85 @@
     "name:ltz_x_preferred":[
         "Speightstown"
     ],
+    "name:min_x_preferred":[
+        "Speightstown"
+    ],
+    "name:mlg_x_preferred":[
+        "Speightstown"
+    ],
     "name:msa_x_preferred":[
+        "Speightstown"
+    ],
+    "name:nap_x_preferred":[
+        "Speightstown"
+    ],
+    "name:nds_x_preferred":[
         "Speightstown"
     ],
     "name:nld_x_preferred":[
         "Speightstown"
     ],
+    "name:nno_x_preferred":[
+        "Speightstown"
+    ],
+    "name:nob_x_preferred":[
+        "Speightstown"
+    ],
+    "name:nrm_x_preferred":[
+        "Speightstown"
+    ],
+    "name:oci_x_preferred":[
+        "Speightstown"
+    ],
+    "name:pcd_x_preferred":[
+        "Speightstown"
+    ],
+    "name:pms_x_preferred":[
+        "Speightstown"
+    ],
     "name:pol_x_preferred":[
+        "Speightstown"
+    ],
+    "name:por_x_preferred":[
+        "Speightstown"
+    ],
+    "name:roh_x_preferred":[
+        "Speightstown"
+    ],
+    "name:ron_x_preferred":[
         "Speightstown"
     ],
     "name:rus_x_preferred":[
         "\u0421\u043f\u0430\u0439\u0442\u0441\u0442\u0430\u0443\u043d"
     ],
+    "name:scn_x_preferred":[
+        "Speightstown"
+    ],
+    "name:sco_x_preferred":[
+        "Speightstown"
+    ],
+    "name:slk_x_preferred":[
+        "Speightstown"
+    ],
+    "name:slv_x_preferred":[
+        "Speightstown"
+    ],
+    "name:spa_x_preferred":[
+        "Speightstown"
+    ],
+    "name:sqi_x_preferred":[
+        "Speightstown"
+    ],
+    "name:srd_x_preferred":[
+        "Speightstown"
+    ],
+    "name:swa_x_preferred":[
+        "Speightstown"
+    ],
     "name:swe_x_preferred":[
+        "Speightstown"
+    ],
+    "name:tur_x_preferred":[
         "Speightstown"
     ],
     "name:und_x_variant":[
@@ -86,8 +245,32 @@
     "name:urd_x_preferred":[
         "\u0633\u067e\u06cc\u0626\u0679\u0633 \u0679\u0627\u0624\u0646"
     ],
+    "name:vec_x_preferred":[
+        "Speightstown"
+    ],
+    "name:vie_x_preferred":[
+        "Speightstown"
+    ],
+    "name:vls_x_preferred":[
+        "Speightstown"
+    ],
+    "name:vol_x_preferred":[
+        "Speightstown"
+    ],
+    "name:wln_x_preferred":[
+        "Speightstown"
+    ],
+    "name:wol_x_preferred":[
+        "Speightstown"
+    ],
+    "name:wuu_x_preferred":[
+        "\u65af\u4f69\u8328\u6566"
+    ],
     "name:zho_x_preferred":[
         "\u65af\u4f69\u8328\u6566"
+    ],
+    "name:zul_x_preferred":[
+        "Speightstown"
     ],
     "qs:gn_country":"BB",
     "qs:gn_fcode":"PPL",
@@ -138,7 +321,7 @@
         }
     ],
     "wof:id":421172983,
-    "wof:lastmodified":1566605838,
+    "wof:lastmodified":1690855922,
     "wof:name":"Speightstown",
     "wof:parent_id":85669469,
     "wof:placetype":"locality",
