@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.036804,
-    "geom:area_square_m":443114310.846663,
+    "geom:area_square_m":443114310.846823,
     "geom:bbox":"-59.652637,13.044833,-59.42075,13.335861",
     "geom:latitude":13.172783,
     "geom:longitude":-59.557497,
@@ -16,6 +16,9 @@
         "1-246"
     ],
     "itu:region":"1",
+    "label:eng_x_preferred_placetype":[
+        "country"
+    ],
     "label:eng_x_preferred_shortcode":[
         "BB"
     ],
@@ -1044,7 +1047,8 @@
         "naturalearth"
     ],
     "src:lbl_centroid":"mapshaper",
-    "src:population":"wk",
+    "src:population":"naturalearth",
+    "src:population_date":"2019",
     "statoids:dial":"1-246",
     "statoids:ds":"BDS",
     "statoids:fifa":"BRB",
@@ -1101,7 +1105,7 @@
         "naturalearth",
         "naturalearth-display-terrestrial-zoom6"
     ],
-    "wof:geomhash":"b7268d44945958940f92a47dee1221aa",
+    "wof:geomhash":"6a71605f39b3fc9ccb844dc15a1ad8dd",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -1115,12 +1119,12 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690855921,
+    "wof:lastmodified":1694639667,
     "wof:name":"Barbados",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
-    "wof:population":284644,
-    "wof:population_rank":10,
+    "wof:population":287025,
+    "wof:population_rank":18,
     "wof:repo":"whosonfirst-data-admin-bb",
     "wof:shortcode":"BB",
     "wof:superseded_by":[],
