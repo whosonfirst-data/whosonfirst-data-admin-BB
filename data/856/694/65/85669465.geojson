@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.003344,
-    "geom:area_square_m":40264364.030598,
+    "geom:area_square_m":40264061.57024,
     "geom:bbox":"-59.640607,13.084133,-59.568839,13.161316",
     "geom:latitude":13.119707,
     "geom:longitude":-59.602571,
@@ -316,14 +316,16 @@
         "gn:id":3373557,
         "gp:id":2344737,
         "hasc:id":"BB.MI",
+        "iso:code":"BB-08",
         "iso:id":"BB-08",
         "qs_pg:id":1083799,
         "unlc:id":"BB-08",
         "wd:id":"Q819170",
         "wk:page":"Saint Michael, Barbados"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BB",
-    "wof:geomhash":"221b8e5882d4ca636ccab9cc3010ee79",
+    "wof:geomhash":"5e56bcaac4a5f9e63549eaa4cb1afe1d",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -338,7 +340,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690855920,
+    "wof:lastmodified":1695884325,
     "wof:name":"Saint Michael",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

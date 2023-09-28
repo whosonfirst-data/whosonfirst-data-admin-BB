@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002104,
-    "geom:area_square_m":25321652.656823,
+    "geom:area_square_m":25321652.656826,
     "geom:bbox":"-59.580983,13.180074,-59.518053,13.243798",
     "geom:latitude":13.214047,
     "geom:longitude":-59.551468,
@@ -289,14 +289,16 @@
         "gn:id":3373568,
         "gp:id":2344735,
         "hasc:id":"BB.JS",
+        "iso:code":"BB-06",
         "iso:id":"BB-06",
         "qs_pg:id":236169,
         "unlc:id":"BB-06",
         "wd:id":"Q550249",
         "wk:page":"Saint Joseph, Barbados"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BB",
-    "wof:geomhash":"377536506df56c2ee14c64668deffe25",
+    "wof:geomhash":"64fb00f16b151b48cc59bafe1e2a2336",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -311,7 +313,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690855918,
+    "wof:lastmodified":1695884837,
     "wof:name":"Saint Joseph",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

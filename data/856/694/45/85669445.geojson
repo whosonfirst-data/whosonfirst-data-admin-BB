@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00368,
-    "geom:area_square_m":44311966.375412,
+    "geom:area_square_m":44312312.477466,
     "geom:bbox":"-59.587107,13.108192,-59.508714,13.182503",
     "geom:latitude":13.146131,
     "geom:longitude":-59.548349,
@@ -283,14 +283,16 @@
         "gn:id":3373572,
         "gp:id":2344732,
         "hasc:id":"BB.GE",
+        "iso:code":"BB-03",
         "iso:id":"BB-03",
         "qs_pg:id":452973,
         "unlc:id":"BB-03",
         "wd:id":"Q1647443",
         "wk:page":"Saint George, Barbados"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BB",
-    "wof:geomhash":"dbfd9746bba0ab7fe81d29730a069768",
+    "wof:geomhash":"b5409831751fa6348547da257e3b3c4a",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -305,7 +307,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690855919,
+    "wof:lastmodified":1695884837,
     "wof:name":"Saint George",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

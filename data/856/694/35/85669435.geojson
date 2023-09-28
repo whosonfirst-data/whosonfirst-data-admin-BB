@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.004787,
-    "geom:area_square_m":57651672.327976,
+    "geom:area_square_m":57651454.895459,
     "geom:bbox":"-59.600243,13.051174,-59.475776,13.129431",
     "geom:latitude":13.090966,
     "geom:longitude":-59.529484,
@@ -285,14 +285,16 @@
         "gn:id":3373988,
         "gp:id":2344730,
         "hasc:id":"BB.CC",
+        "iso:code":"BB-01",
         "iso:id":"BB-01",
         "qs_pg:id":222803,
         "unlc:id":"BB-01",
         "wd:id":"Q1626524",
         "wk:page":"Christ Church, Barbados"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BB",
-    "wof:geomhash":"a96761ad8451d394f78b8afbc726b3dd",
+    "wof:geomhash":"249c326512558c3d4996a35d385ec8aa",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -307,7 +309,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690855918,
+    "wof:lastmodified":1695884837,
     "wof:name":"Christ Church",
     "wof:parent_id":85632491,
     "wof:placetype":"region",
