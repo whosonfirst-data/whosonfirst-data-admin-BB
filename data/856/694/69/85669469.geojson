@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002529,
-    "geom:area_square_m":30439202.355008,
+    "geom:area_square_m":30439202.355029,
     "geom:bbox":"-59.652921,13.237229,-59.568965,13.304393",
     "geom:latitude":13.269767,
     "geom:longitude":-59.619858,
@@ -295,14 +295,16 @@
         "gn:id":3373554,
         "gp:id":2344738,
         "hasc:id":"BB.PE",
+        "iso:code":"BB-09",
         "iso:id":"BB-09",
         "qs_pg:id":219500,
         "unlc:id":"BB-09",
         "wd:id":"Q932723",
         "wk:page":"Saint Peter, Barbados"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BB",
-    "wof:geomhash":"c9e85e294a4ca6172c01db236b08dabd",
+    "wof:geomhash":"1bfcd9012720398f11d81f5ec4956eeb",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -317,7 +319,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690855919,
+    "wof:lastmodified":1695884837,
     "wof:name":"Saint Peter",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

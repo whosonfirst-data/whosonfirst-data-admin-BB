@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.00315,
-    "geom:area_square_m":37899677.032193,
+    "geom:area_square_m":37899834.71378,
     "geom:bbox":"-59.654205,13.273861,-59.575919,13.34455",
     "geom:latitude":13.311532,
     "geom:longitude":-59.619887,
@@ -277,14 +277,16 @@
         "gn:id":3373565,
         "gp:id":2344736,
         "hasc:id":"BB.LU",
+        "iso:code":"BB-07",
         "iso:id":"BB-07",
         "qs_pg:id":1060665,
         "unlc:id":"BB-07",
         "wd:id":"Q1647447",
         "wk:page":"Saint Lucy, Barbados"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BB",
-    "wof:geomhash":"dae1c55ef1739f4f723ab374ae1f09b3",
+    "wof:geomhash":"0e358892333ce3006206ebf05a37f2cf",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -299,7 +301,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690855918,
+    "wof:lastmodified":1695884837,
     "wof:name":"Saint Lucy",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.005392,
-    "geom:area_square_m":64931672.595846,
+    "geom:area_square_m":64931540.749639,
     "geom:bbox":"-59.513106,13.086495,-59.42691,13.186538",
     "geom:latitude":13.138206,
     "geom:longitude":-59.467338,
@@ -286,14 +286,16 @@
         "gn:id":3373553,
         "gp:id":2344739,
         "hasc:id":"BB.PH",
+        "iso:code":"BB-10",
         "iso:id":"BB-10",
         "qs_pg:id":423564,
         "unlc:id":"BB-10",
         "wd:id":"Q1647436",
         "wk:page":"Saint Philip, Barbados"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BB",
-    "wof:geomhash":"1491ff0325ce3f4dfb9f5bef9d1cc216",
+    "wof:geomhash":"f03d2e328d3a0b585b3a179310fa4e23",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -308,7 +310,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690855919,
+    "wof:lastmodified":1695884837,
     "wof:name":"Saint Philip",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

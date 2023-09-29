@@ -5,7 +5,7 @@
     "edtf:cessation":"uuuu",
     "edtf:inception":"uuuu",
     "geom:area":0.002902,
-    "geom:area_square_m":34937414.174999,
+    "geom:area_square_m":34937479.627748,
     "geom:bbox":"-59.625296,13.150257,-59.554292,13.217023",
     "geom:latitude":13.18478,
     "geom:longitude":-59.59179,
@@ -284,14 +284,16 @@
         "gn:id":3373551,
         "gp:id":2344740,
         "hasc:id":"BB.TH",
+        "iso:code":"BB-11",
         "iso:id":"BB-11",
         "qs_pg:id":219501,
         "unlc:id":"BB-11",
         "wd:id":"Q1647432",
         "wk:page":"Saint Thomas, Barbados"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BB",
-    "wof:geomhash":"557882393ca7f2c95a872e99e36d28e6",
+    "wof:geomhash":"7da8dcd9e5abbe3213691ac979471a00",
     "wof:hierarchy":[
         {
             "continent_id":102191575,
@@ -306,7 +308,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1690855920,
+    "wof:lastmodified":1695884837,
     "wof:name":"Saint Thomas",
     "wof:parent_id":85632491,
     "wof:placetype":"region",

@@ -1086,6 +1086,7 @@
         "hasc:id":"BB",
         "icao:code":"8P",
         "ioc:id":"BAR",
+        "iso:code":"BB",
         "itu:id":"BRB",
         "m49:code":"052",
         "marc:id":"bb",
@@ -1099,6 +1100,7 @@
         "wk:page":"Barbados",
         "wmo:id":"BR"
     },
+    "wof:concordances_official":"iso:code",
     "wof:country":"BB",
     "wof:country_alpha3":"BRB",
     "wof:geom_alt":[
@@ -1119,7 +1121,7 @@
     "wof:lang_x_spoken":[
         "eng"
     ],
-    "wof:lastmodified":1694639667,
+    "wof:lastmodified":1695881327,
     "wof:name":"Barbados",
     "wof:parent_id":102191575,
     "wof:placetype":"country",
